@@ -1,0 +1,11 @@
+;; this header file specifies the names of the dictionary file
+;; and the index file of a lexicon, as well as the number of buckets
+;; in the index, which is a hash table. The characters after 
+;; the semicolon (;) are comments and are ignored by the program.
+;; The items in this file must be in the order examplified below.
+ 
+muclex1.lsp ;; the name of the dictionary file
+1979                ;; the size of the index file
+muclex1.ind ;; the name of the index file
+(                   ;; opening bracket
+)                   ;; close bracket

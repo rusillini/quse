@@ -1,0 +1,3033 @@
+		 	
+a la	10	 	1
+a la	3	 	9
+a la	4	 	2
+a la	5	 	3
+a la	6	 	2
+a la	7	 	1
+aboard	1	 	3
+aboard	10	 	36
+aboard	11	 	22
+aboard	12	 	14
+aboard	13	 	12
+aboard	14	 	6
+aboard	15	 	6
+aboard	16	 	4
+aboard	17	 	3
+aboard	18	 	7
+aboard	19	 	5
+aboard	2	 	320
+aboard	21	 	1
+aboard	3	 	882
+aboard	4	 	557
+aboard	5	 	306
+aboard	6	 	207
+aboard	7	 	155
+aboard	8	 	70
+aboard	9	 	54
+about	1	 	869
+about	10	 	239
+about	11	 	165
+about	12	 	115
+about	13	 	91
+about	14	 	61
+about	15	 	52
+about	16	 	36
+about	17	 	34
+about	18	 	30
+about	19	 	26
+about	2	 	6998
+about	20	 	13
+about	22	 	3
+about	24	 	1
+about	3	 	11925
+about	33	 	1
+about	4	 	6007
+about	5	 	3263
+about	6	 	1624
+about	7	 	852
+about	8	 	543
+about	9	 	357
+above	1	 	25
+above	10	 	10
+above	11	 	7
+above	12	 	7
+above	13	 	5
+above	14	 	9
+above	15	 	4
+above	16	 	1
+above	17	 	5
+above	18	 	2
+above	19	 	1
+above	2	 	430
+above	20	 	2
+above	27	 	1
+above	3	 	1049
+above	4	 	492
+above	5	 	193
+above	6	 	175
+above	7	 	65
+above	8	 	44
+above	9	 	30
+according to	10	 	823
+according to	11	 	773
+according to	12	 	675
+according to	13	 	598
+according to	14	 	577
+according to	15	 	527
+according to	16	 	486
+according to	17	 	378
+according to	18	 	423
+according to	19	 	337
+according to	2	 	842
+according to	20	 	248
+according to	21	 	6
+according to	22	 	3
+according to	3	 	1446
+according to	4	 	995
+according to	5	 	860
+according to	6	 	778
+according to	7	 	905
+according to	8	 	903
+according to	9	 	885
+across	1	 	11
+across	10	 	70
+across	11	 	48
+across	12	 	35
+across	13	 	27
+across	14	 	17
+across	15	 	16
+across	16	 	9
+across	17	 	7
+across	18	 	7
+across	19	 	4
+across	2	 	899
+across	20	 	2
+across	22	 	2
+across	3	 	3293
+across	4	 	1370
+across	5	 	564
+across	6	 	399
+across	7	 	195
+across	8	 	122
+across	9	 	63
+after	1	 	885
+after	10	 	449
+after	11	 	346
+after	12	 	224
+after	13	 	202
+after	14	 	141
+after	15	 	90
+after	16	 	82
+after	17	 	60
+after	18	 	46
+after	19	 	45
+after	2	 	6055
+after	20	 	33
+after	21	 	3
+after	23	 	1
+after	24	 	1
+after	25	 	1
+after	27	 	1
+after	3	 	9124
+after	4	 	4817
+after	5	 	2937
+after	6	 	2138
+after	7	 	1268
+after	8	 	900
+after	9	 	641
+against	1	 	210
+against	10	 	240
+against	11	 	137
+against	12	 	73
+against	13	 	71
+against	14	 	36
+against	15	 	26
+against	16	 	25
+against	17	 	16
+against	18	 	18
+against	19	 	5
+against	2	 	8092
+against	20	 	12
+against	3	 	8095
+against	4	 	4835
+against	5	 	2340
+against	6	 	1319
+against	7	 	958
+against	8	 	447
+against	9	 	275
+agin	4	 	1
+agin	5	 	1
+all over	10	 	3
+all over	11	 	1
+all over	12	 	2
+all over	13	 	2
+all over	14	 	2
+all over	2	 	8
+all over	3	 	123
+all over	4	 	373
+all over	5	 	66
+all over	6	 	32
+all over	7	 	14
+all over	8	 	8
+all over	9	 	3
+along	1	 	15
+along	10	 	39
+along	11	 	28
+along	12	 	21
+along	13	 	15
+along	14	 	10
+along	15	 	13
+along	16	 	5
+along	17	 	7
+along	18	 	4
+along	19	 	4
+along	2	 	311
+along	20	 	5
+along	24	 	1
+along	3	 	1528
+along	4	 	1117
+along	5	 	540
+along	6	 	449
+along	7	 	179
+along	8	 	129
+along	9	 	93
+along with	10	 	114
+along with	11	 	97
+along with	12	 	86
+along with	13	 	51
+along with	14	 	49
+along with	15	 	41
+along with	16	 	22
+along with	17	 	18
+along with	18	 	17
+along with	19	 	24
+along with	2	 	96
+along with	20	 	22
+along with	21	 	1
+along with	23	 	1
+along with	3	 	367
+along with	4	 	492
+along with	5	 	402
+along with	6	 	256
+along with	7	 	247
+along with	8	 	187
+along with	9	 	135
+alongside	1	 	1
+alongside	10	 	2
+alongside	11	 	2
+alongside	12	 	2
+alongside	15	 	1
+alongside	16	 	3
+alongside	2	 	71
+alongside	3	 	110
+alongside	4	 	59
+alongside	5	 	32
+alongside	6	 	18
+alongside	7	 	7
+alongside	8	 	6
+alongside	9	 	3
+amid	1	 	28
+amid	10	 	27
+amid	11	 	22
+amid	12	 	16
+amid	13	 	15
+amid	14	 	3
+amid	15	 	3
+amid	16	 	6
+amid	17	 	3
+amid	18	 	2
+amid	19	 	2
+amid	2	 	504
+amid	3	 	444
+amid	4	 	283
+amid	5	 	138
+amid	6	 	119
+amid	7	 	88
+amid	8	 	55
+amid	9	 	43
+amidst	14	 	1
+amidst	15	 	1
+amidst	16	 	1
+amidst	2	 	5
+amidst	3	 	14
+amidst	4	 	3
+amidst	5	 	1
+amidst	6	 	1
+amidst	9	 	2
+amod	1	 	211138
+amod	2	 	62
+amod	3	 	348
+among	1	 	740
+among	10	 	112
+among	11	 	62
+among	12	 	50
+among	13	 	45
+among	14	 	37
+among	15	 	25
+among	16	 	24
+among	17	 	17
+among	18	 	19
+among	19	 	13
+among	2	 	3886
+among	20	 	15
+among	3	 	4379
+among	4	 	2720
+among	5	 	1192
+among	6	 	642
+among	7	 	356
+among	8	 	230
+among	9	 	117
+amongst	13	 	1
+amongst	2	 	16
+amongst	3	 	13
+amongst	4	 	6
+amongst	5	 	4
+amongst	6	 	1
+amongst	7	 	1
+amongst	8	 	2
+amongst	9	 	1
+appo	10	 	2906
+appo	11	 	2052
+appo	12	 	1705
+appo	13	 	1227
+appo	14	 	950
+appo	15	 	768
+appo	16	 	790
+appo	17	 	597
+appo	18	 	472
+appo	19	 	393
+appo	2	 	36953
+appo	20	 	339
+appo	21	 	11
+appo	22	 	4
+appo	23	 	3
+appo	3	 	55409
+appo	33	 	1
+appo	4	 	53908
+appo	5	 	29966
+appo	6	 	18859
+appo	7	 	10539
+appo	8	 	7500
+appo	9	 	4624
+appo-mod	1	 	1353
+appo-mod	10	 	45
+appo-mod	11	 	27
+appo-mod	12	 	23
+appo-mod	13	 	13
+appo-mod	14	 	16
+appo-mod	15	 	10
+appo-mod	16	 	11
+appo-mod	17	 	4
+appo-mod	18	 	2
+appo-mod	19	 	4
+appo-mod	2	 	6510
+appo-mod	3	 	614
+appo-mod	4	 	916
+appo-mod	5	 	265
+appo-mod	6	 	152
+appo-mod	7	 	119
+appo-mod	8	 	112
+appo-mod	9	 	58
+around	1	 	68
+around	10	 	26
+around	11	 	25
+around	12	 	12
+around	13	 	15
+around	14	 	11
+around	15	 	10
+around	16	 	8
+around	17	 	3
+around	18	 	7
+around	19	 	2
+around	2	 	1721
+around	3	 	4759
+around	4	 	1049
+around	5	 	560
+around	6	 	338
+around	7	 	159
+around	8	 	81
+around	9	 	52
+as	1	 	1269
+as	10	 	1040
+as	11	 	782
+as	12	 	518
+as	13	 	419
+as	14	 	282
+as	15	 	239
+as	16	 	191
+as	17	 	147
+as	18	 	123
+as	19	 	83
+as	2	 	17779
+as	20	 	85
+as	21	 	5
+as	22	 	3
+as	24	 	1
+as	25	 	2
+as	26	 	2
+as	27	 	2
+as	28	 	1
+as	3	 	21237
+as	30	 	1
+as	31	 	1
+as	4	 	13771
+as	47	 	1
+as	5	 	8296
+as	6	 	5927
+as	7	 	3659
+as	8	 	2382
+as	9	 	1560
+as against	10	 	2
+as against	4	 	1
+as against	9	 	1
+as for	13	 	1
+as for	17	 	1
+as for	19	 	1
+as for	2	 	28
+as for	20	 	1
+as for	3	 	56
+as for	4	 	45
+as for	5	 	14
+as for	6	 	15
+as for	7	 	4
+as for	8	 	6
+as for	9	 	1
+as of	10	 	2
+as of	11	 	4
+as of	12	 	18
+as of	13	 	2
+as of	14	 	1
+as of	15	 	2
+as of	16	 	1
+as of	17	 	1
+as of	19	 	1
+as of	2	 	116
+as of	20	 	1
+as of	3	 	433
+as of	4	 	642
+as of	5	 	213
+as of	6	 	71
+as of	7	 	51
+as of	8	 	7
+as of	9	 	9
+as opposed to	10	 	10
+as opposed to	11	 	8
+as opposed to	12	 	4
+as opposed to	13	 	3
+as opposed to	14	 	5
+as opposed to	15	 	5
+as opposed to	16	 	4
+as opposed to	17	 	1
+as opposed to	2	 	2
+as opposed to	3	 	2
+as opposed to	4	 	19
+as opposed to	5	 	35
+as opposed to	6	 	18
+as opposed to	7	 	13
+as opposed to	8	 	13
+as opposed to	9	 	10
+as to	11	 	2
+as to	12	 	2
+as to	13	 	1
+as to	2	 	20
+as to	3	 	85
+as to	4	 	104
+as to	5	 	50
+as to	6	 	26
+as to	7	 	10
+as to	8	 	4
+as to	9	 	2
+as-arg	10	 	14
+as-arg	11	 	8
+as-arg	12	 	5
+as-arg	13	 	3
+as-arg	14	 	3
+as-arg	15	 	1
+as-arg	16	 	3
+as-arg	17	 	3
+as-arg	2	 	2156
+as-arg	20	 	1
+as-arg	3	 	727
+as-arg	4	 	352
+as-arg	5	 	167
+as-arg	6	 	94
+as-arg	7	 	46
+as-arg	8	 	38
+as-arg	9	 	19
+as1	1	 	3482
+as1	2	 	136
+as1	3	 	15
+as1	4	 	6
+as1	6	 	1
+as2	1	 	3299
+as2	10	 	7
+as2	11	 	4
+as2	12	 	2
+as2	13	 	4
+as2	14	 	1
+as2	15	 	2
+as2	16	 	3
+as2	19	 	1
+as2	2	 	2
+as2	3	 	125
+as2	4	 	90
+as2	5	 	42
+as2	6	 	24
+as2	7	 	17
+as2	8	 	11
+as2	9	 	6
+astride	14	 	2
+astride	19	 	1
+astride	3	 	3
+astride	4	 	11
+astride	5	 	3
+at	1	 	2442
+at	10	 	2246
+at	11	 	1699
+at	12	 	1297
+at	13	 	834
+at	14	 	451
+at	15	 	382
+at	16	 	276
+at	17	 	247
+at	18	 	130
+at	19	 	165
+at	2	 	33810
+at	20	 	114
+at	21	 	8
+at	23	 	3
+at	24	 	1
+at	28	 	2
+at	29	 	1
+at	3	 	50694
+at	30	 	2
+at	36	 	1
+at	37	 	1
+at	4	 	35990
+at	5	 	20478
+at	6	 	12180
+at	7	 	6622
+at	8	 	4564
+at	9	 	2551
+aux	0	 	2693
+aux	1	 	694367
+aux	10	 	2
+aux	2	 	180679
+aux	3	 	22391
+aux	4	 	2310
+aux	5	 	418
+aux	6	 	134
+aux	7	 	55
+aux	8	 	21
+aux	9	 	8
+bar	1	 	1
+bar	11	 	2
+bar	12	 	1
+bar	2	 	7
+bar	3	 	3
+bar	4	 	3
+bar	5	 	3
+bar	7	 	3
+bar	8	 	3
+bar	9	 	1
+barring	1	 	3
+barring	10	 	5
+barring	11	 	8
+barring	12	 	1
+barring	13	 	1
+barring	15	 	1
+barring	16	 	3
+barring	2	 	52
+barring	3	 	39
+barring	4	 	36
+barring	5	 	17
+barring	6	 	6
+barring	7	 	9
+barring	8	 	9
+be	1	 	459358
+be	2	 	53830
+be	3	 	6869
+be	4	 	1313
+be	5	 	224
+be	6	 	75
+be	7	 	21
+be	8	 	7
+be	9	 	2
+because of	1	 	1
+because of	10	 	196
+because of	11	 	144
+because of	12	 	103
+because of	13	 	92
+because of	14	 	59
+because of	15	 	56
+because of	16	 	43
+because of	17	 	29
+because of	18	 	27
+because of	19	 	19
+because of	2	 	156
+because of	20	 	15
+because of	21	 	1
+because of	22	 	2
+because of	28	 	1
+because of	3	 	1888
+because of	4	 	4142
+because of	5	 	2538
+because of	6	 	1405
+because of	7	 	897
+because of	8	 	481
+because of	9	 	289
+before	1	 	235
+before	10	 	143
+before	11	 	123
+before	12	 	79
+before	13	 	64
+before	14	 	44
+before	15	 	39
+before	16	 	33
+before	17	 	30
+before	18	 	19
+before	19	 	18
+before	2	 	3725
+before	20	 	19
+before	21	 	1
+before	3	 	4378
+before	4	 	2525
+before	5	 	1369
+before	6	 	866
+before	7	 	504
+before	8	 	326
+before	9	 	224
+behind	1	 	56
+behind	10	 	35
+behind	11	 	24
+behind	12	 	20
+behind	13	 	12
+behind	14	 	13
+behind	15	 	12
+behind	16	 	6
+behind	17	 	5
+behind	18	 	2
+behind	19	 	6
+behind	2	 	933
+behind	20	 	1
+behind	21	 	1
+behind	3	 	1423
+behind	4	 	631
+behind	5	 	403
+behind	6	 	193
+behind	7	 	154
+behind	8	 	80
+behind	9	 	52
+being	1	 	7926
+being	2	 	148
+being	3	 	30
+being	4	 	1
+below	1	 	19
+below	10	 	12
+below	11	 	7
+below	12	 	8
+below	13	 	14
+below	14	 	6
+below	15	 	4
+below	16	 	2
+below	18	 	1
+below	19	 	3
+below	2	 	1055
+below	20	 	1
+below	3	 	731
+below	4	 	561
+below	5	 	227
+below	6	 	129
+below	7	 	59
+below	8	 	41
+below	9	 	23
+beneath	1	 	2
+beneath	10	 	8
+beneath	11	 	2
+beneath	12	 	1
+beneath	13	 	1
+beneath	14	 	2
+beneath	18	 	1
+beneath	19	 	1
+beneath	2	 	68
+beneath	3	 	231
+beneath	4	 	88
+beneath	5	 	44
+beneath	6	 	24
+beneath	7	 	15
+beneath	8	 	12
+beneath	9	 	3
+beside	1	 	3
+beside	10	 	4
+beside	11	 	2
+beside	13	 	1
+beside	16	 	1
+beside	17	 	1
+beside	2	 	76
+beside	3	 	127
+beside	4	 	67
+beside	5	 	26
+beside	6	 	13
+beside	7	 	5
+beside	8	 	8
+beside	9	 	7
+besides	1	 	150
+besides	10	 	2
+besides	12	 	1
+besides	13	 	1
+besides	15	 	1
+besides	2	 	221
+besides	20	 	1
+besides	3	 	136
+besides	4	 	61
+besides	5	 	35
+besides	6	 	20
+besides	7	 	12
+besides	8	 	2
+besides	9	 	3
+between	1	 	123
+between	10	 	118
+between	11	 	93
+between	12	 	55
+between	13	 	35
+between	14	 	24
+between	15	 	29
+between	16	 	17
+between	17	 	11
+between	18	 	10
+between	19	 	10
+between	2	 	6447
+between	20	 	5
+between	24	 	1
+between	25	 	1
+between	3	 	5831
+between	4	 	4368
+between	5	 	1617
+between	6	 	858
+between	7	 	443
+between	8	 	298
+between	9	 	207
+beyond	1	 	78
+beyond	10	 	14
+beyond	11	 	8
+beyond	12	 	9
+beyond	13	 	9
+beyond	14	 	5
+beyond	16	 	2
+beyond	17	 	2
+beyond	18	 	3
+beyond	19	 	3
+beyond	2	 	406
+beyond	20	 	1
+beyond	3	 	608
+beyond	4	 	336
+beyond	5	 	176
+beyond	6	 	101
+beyond	7	 	45
+beyond	8	 	29
+beyond	9	 	17
+but	1	 	267
+but	10	 	33
+but	11	 	19
+but	12	 	11
+but	13	 	12
+but	14	 	12
+but	15	 	8
+but	16	 	9
+but	17	 	12
+but	18	 	2
+but	19	 	4
+but	2	 	585
+but	20	 	5
+but	3	 	486
+but	4	 	273
+but	5	 	148
+but	6	 	98
+but	7	 	63
+but	8	 	43
+but	9	 	40
+by	1	 	1956
+by	10	 	1296
+by	11	 	877
+by	12	 	617
+by	13	 	439
+by	14	 	297
+by	15	 	230
+by	16	 	170
+by	17	 	151
+by	18	 	130
+by	19	 	103
+by	2	 	38464
+by	20	 	87
+by	21	 	10
+by	22	 	3
+by	23	 	1
+by	24	 	4
+by	25	 	1
+by	29	 	1
+by	3	 	55786
+by	31	 	1
+by	39	 	1
+by	4	 	32136
+by	5	 	19444
+by	6	 	11150
+by	7	 	6100
+by	8	 	3599
+by	9	 	2097
+by-subj	1	 	79042
+by-subj	10	 	106
+by-subj	11	 	63
+by-subj	12	 	52
+by-subj	13	 	36
+by-subj	14	 	26
+by-subj	15	 	25
+by-subj	16	 	24
+by-subj	17	 	8
+by-subj	18	 	5
+by-subj	19	 	2
+by-subj	2	 	4920
+by-subj	3	 	3226
+by-subj	4	 	1563
+by-subj	5	 	775
+by-subj	6	 	483
+by-subj	7	 	352
+by-subj	8	 	203
+by-subj	9	 	160
+c	0	 	199608
+c	1	 	15725
+c	10	 	2
+c	11	 	2
+c	12	 	1
+c	13	 	3
+c	14	 	2
+c	15	 	3
+c	16	 	2
+c	18	 	2
+c	19	 	1
+c	2	 	12643
+c	22	 	1
+c	3	 	1431
+c	4	 	398
+c	5	 	58
+c	6	 	43
+c	7	 	23
+c	8	 	19
+c	9	 	12
+chez	2	 	1
+circa	11	 	2
+circa	13	 	1
+circa	14	 	1
+circa	18	 	1
+circa	2	 	3
+circa	6	 	2
+circa	9	 	1
+cn	0	 	40736
+comp1	1	 	430826
+comp1	10	 	6
+comp1	11	 	9
+comp1	12	 	2
+comp1	13	 	2
+comp1	14	 	4
+comp1	15	 	2
+comp1	17	 	1
+comp1	2	 	4453
+comp1	3	 	3751
+comp1	4	 	1723
+comp1	5	 	976
+comp1	6	 	615
+comp1	7	 	105
+comp1	8	 	35
+comp1	9	 	18
+comp2	1	 	13
+comp2	10	 	3
+comp2	11	 	2
+comp2	14	 	3
+comp2	15	 	3
+comp2	16	 	2
+comp2	18	 	1
+comp2	4	 	3
+comp2	5	 	4
+comp2	6	 	3
+comp2	7	 	4
+comp2	9	 	2
+concerning	1	 	12
+concerning	10	 	8
+concerning	11	 	3
+concerning	12	 	1
+concerning	13	 	5
+concerning	14	 	3
+concerning	15	 	1
+concerning	16	 	2
+concerning	18	 	2
+concerning	19	 	1
+concerning	2	 	103
+concerning	3	 	223
+concerning	4	 	89
+concerning	5	 	56
+concerning	6	 	25
+concerning	7	 	15
+concerning	8	 	21
+concerning	9	 	19
+conj	1	 	40
+conj	10	 	26032
+conj	11	 	21973
+conj	12	 	18269
+conj	13	 	15340
+conj	14	 	12405
+conj	15	 	10478
+conj	16	 	8660
+conj	17	 	7250
+conj	18	 	5978
+conj	19	 	4908
+conj	2	 	249349
+conj	20	 	4119
+conj	21	 	3289
+conj	22	 	2815
+conj	23	 	2160
+conj	24	 	1770
+conj	25	 	1449
+conj	26	 	1123
+conj	27	 	931
+conj	28	 	661
+conj	29	 	545
+conj	3	 	208234
+conj	30	 	392
+conj	31	 	319
+conj	32	 	285
+conj	33	 	187
+conj	34	 	167
+conj	35	 	142
+conj	36	 	95
+conj	37	 	85
+conj	38	 	61
+conj	39	 	54
+conj	4	 	120023
+conj	40	 	48
+conj	41	 	39
+conj	42	 	28
+conj	43	 	15
+conj	44	 	18
+conj	45	 	15
+conj	46	 	10
+conj	47	 	15
+conj	48	 	14
+conj	49	 	8
+conj	5	 	79317
+conj	50	 	6
+conj	51	 	6
+conj	52	 	5
+conj	53	 	5
+conj	54	 	3
+conj	55	 	2
+conj	56	 	4
+conj	57	 	3
+conj	58	 	3
+conj	59	 	2
+conj	6	 	60668
+conj	60	 	5
+conj	61	 	2
+conj	62	 	1
+conj	63	 	3
+conj	64	 	1
+conj	65	 	1
+conj	69	 	1
+conj	7	 	47988
+conj	8	 	39005
+conj	9	 	32005
+content	1	 	230
+content	2	 	140
+content	3	 	41
+content	4	 	13
+content	5	 	4
+content	6	 	1
+content	7	 	1
+desc	1	 	30534
+desc	10	 	407
+desc	11	 	330
+desc	12	 	236
+desc	13	 	174
+desc	14	 	166
+desc	15	 	123
+desc	16	 	106
+desc	17	 	94
+desc	18	 	61
+desc	19	 	63
+desc	2	 	11257
+desc	20	 	74
+desc	21	 	1
+desc	22	 	1
+desc	3	 	5633
+desc	4	 	3657
+desc	5	 	2471
+desc	6	 	1833
+desc	7	 	1375
+desc	8	 	913
+desc	9	 	644
+despite	1	 	232
+despite	10	 	162
+despite	11	 	119
+despite	12	 	99
+despite	13	 	68
+despite	14	 	65
+despite	15	 	44
+despite	16	 	42
+despite	17	 	34
+despite	18	 	29
+despite	19	 	16
+despite	2	 	1228
+despite	20	 	12
+despite	22	 	2
+despite	3	 	1402
+despite	4	 	828
+despite	5	 	561
+despite	6	 	414
+despite	7	 	296
+despite	8	 	217
+despite	9	 	188
+dest	1	 	1428
+dest	10	 	28
+dest	11	 	22
+dest	12	 	10
+dest	13	 	8
+dest	14	 	6
+dest	15	 	3
+dest	16	 	8
+dest	17	 	5
+dest	18	 	4
+dest	19	 	1
+dest	2	 	557
+dest	3	 	735
+dest	4	 	215
+dest	5	 	118
+dest	6	 	98
+dest	7	 	74
+dest	8	 	52
+dest	9	 	39
+det	1	 	1853598
+det	10	 	716
+det	11	 	200
+det	12	 	125
+det	13	 	44
+det	14	 	20
+det	15	 	13
+det	16	 	7
+det	17	 	4
+det	18	 	5
+det	19	 	5
+det	2	 	948004
+det	20	 	1
+det	3	 	330513
+det	4	 	176165
+det	5	 	64198
+det	6	 	35906
+det	7	 	12924
+det	8	 	5279
+det	9	 	2068
+down	1	 	22
+down	10	 	82
+down	11	 	95
+down	12	 	47
+down	13	 	48
+down	14	 	60
+down	15	 	24
+down	16	 	24
+down	17	 	24
+down	18	 	11
+down	19	 	10
+down	2	 	1693
+down	20	 	9
+down	21	 	1
+down	23	 	1
+down	27	 	1
+down	28	 	1
+down	3	 	2879
+down	32	 	1
+down	4	 	1188
+down	5	 	630
+down	6	 	519
+down	7	 	482
+down	8	 	195
+down	9	 	119
+due to	1	 	1
+due to	10	 	30
+due to	11	 	16
+due to	12	 	20
+due to	13	 	13
+due to	14	 	8
+due to	15	 	6
+due to	16	 	9
+due to	17	 	7
+due to	18	 	6
+due to	19	 	4
+due to	2	 	15
+due to	20	 	5
+due to	3	 	568
+due to	4	 	785
+due to	5	 	425
+due to	6	 	219
+due to	7	 	146
+due to	8	 	72
+due to	9	 	44
+during	1	 	491
+during	10	 	319
+during	11	 	218
+during	12	 	163
+during	13	 	118
+during	14	 	107
+during	15	 	85
+during	16	 	70
+during	17	 	42
+during	18	 	32
+during	19	 	36
+during	2	 	3460
+during	20	 	30
+during	3	 	9053
+during	33	 	2
+during	38	 	1
+during	4	 	6411
+during	5	 	3363
+during	6	 	2245
+during	7	 	1332
+during	8	 	763
+during	9	 	513
+ecr	0	 	5594
+ecr	1	 	388
+ecr	10	 	8
+ecr	11	 	2
+ecr	12	 	2
+ecr	13	 	3
+ecr	14	 	1
+ecr	16	 	1
+ecr	2	 	235
+ecr	3	 	176
+ecr	4	 	81
+ecr	5	 	53
+ecr	6	 	22
+ecr	7	 	23
+ecr	8	 	16
+ecr	9	 	6
+else	1	 	1686
+ere	3	 	2
+except	1	 	7
+except	10	 	8
+except	11	 	10
+except	12	 	4
+except	13	 	1
+except	14	 	6
+except	15	 	2
+except	16	 	2
+except	2	 	210
+except	20	 	1
+except	3	 	149
+except	4	 	106
+except	5	 	55
+except	6	 	31
+except	7	 	25
+except	8	 	12
+except	9	 	7
+except for	10	 	23
+except for	11	 	16
+except for	12	 	13
+except for	13	 	8
+except for	14	 	12
+except for	15	 	4
+except for	16	 	8
+except for	17	 	5
+except for	18	 	1
+except for	19	 	1
+except for	2	 	11
+except for	20	 	1
+except for	3	 	39
+except for	4	 	74
+except for	5	 	66
+except for	6	 	44
+except for	7	 	45
+except for	8	 	33
+except for	9	 	23
+excepting	16	 	1
+excepting	3	 	1
+excepting	7	 	1
+expletive	1	 	2438
+expletive	2	 	518
+failing	6	 	3
+fc	1	 	570968
+fc	10	 	339
+fc	11	 	235
+fc	12	 	171
+fc	13	 	125
+fc	14	 	108
+fc	15	 	54
+fc	16	 	59
+fc	17	 	33
+fc	18	 	13
+fc	19	 	10
+fc	2	 	20509
+fc	3	 	9508
+fc	4	 	6050
+fc	5	 	3370
+fc	6	 	2063
+fc	7	 	884
+fc	8	 	613
+fc	9	 	427
+for	1	 	4733
+for	10	 	2002
+for	11	 	1421
+for	12	 	1076
+for	13	 	739
+for	14	 	568
+for	15	 	416
+for	16	 	398
+for	17	 	268
+for	18	 	221
+for	19	 	215
+for	2	 	71993
+for	20	 	166
+for	21	 	9
+for	22	 	8
+for	23	 	4
+for	24	 	2
+for	25	 	4
+for	26	 	3
+for	27	 	9
+for	3	 	91400
+for	30	 	2
+for	35	 	1
+for	4	 	47050
+for	5	 	27804
+for	6	 	15615
+for	7	 	8720
+for	8	 	5534
+for	9	 	3270
+from	1	 	978
+from	10	 	1342
+from	11	 	905
+from	12	 	760
+from	13	 	620
+from	14	 	539
+from	15	 	390
+from	16	 	365
+from	17	 	275
+from	18	 	202
+from	19	 	152
+from	2	 	35557
+from	20	 	116
+from	21	 	5
+from	22	 	4
+from	23	 	1
+from	24	 	1
+from	25	 	1
+from	26	 	3
+from	28	 	1
+from	3	 	47446
+from	33	 	1
+from	37	 	1
+from	4	 	27121
+from	5	 	14871
+from	6	 	8839
+from	7	 	5162
+from	8	 	3302
+from	9	 	2162
+gen	1	 	248138
+gen	10	 	216
+gen	11	 	96
+gen	12	 	45
+gen	13	 	19
+gen	14	 	15
+gen	15	 	7
+gen	16	 	10
+gen	17	 	5
+gen	18	 	2
+gen	19	 	3
+gen	2	 	202197
+gen	20	 	3
+gen	3	 	86428
+gen	4	 	41387
+gen	5	 	19521
+gen	6	 	9820
+gen	7	 	4129
+gen	8	 	1540
+gen	9	 	553
+guest	1	 	59878
+guest	10	 	24
+guest	11	 	21
+guest	12	 	17
+guest	13	 	3
+guest	14	 	3
+guest	15	 	6
+guest	16	 	3
+guest	17	 	1
+guest	19	 	1
+guest	2	 	16926
+guest	3	 	2684
+guest	4	 	817
+guest	5	 	295
+guest	6	 	133
+guest	7	 	84
+guest	8	 	52
+guest	9	 	32
+have	1	 	196648
+have	10	 	4
+have	2	 	71250
+have	3	 	8223
+have	4	 	938
+have	5	 	217
+have	6	 	67
+have	7	 	18
+have	8	 	5
+have	9	 	2
+head	0	 	10196
+head	1	 	3863
+head	10	 	88
+head	11	 	51
+head	12	 	44
+head	13	 	49
+head	14	 	49
+head	15	 	34
+head	16	 	28
+head	17	 	17
+head	18	 	21
+head	19	 	20
+head	2	 	4697
+head	20	 	9
+head	21	 	10
+head	22	 	1
+head	3	 	3232
+head	4	 	1726
+head	5	 	739
+head	6	 	364
+head	7	 	222
+head	8	 	158
+head	9	 	116
+in	1	 	31248
+in	10	 	4829
+in	11	 	3598
+in	12	 	2442
+in	13	 	1910
+in	14	 	1422
+in	15	 	1016
+in	16	 	862
+in	17	 	685
+in	18	 	554
+in	19	 	447
+in	2	 	230262
+in	20	 	383
+in	21	 	16
+in	22	 	10
+in	23	 	8
+in	24	 	9
+in	25	 	7
+in	26	 	4
+in	27	 	4
+in	28	 	3
+in	29	 	1
+in	3	 	219912
+in	31	 	4
+in	32	 	3
+in	33	 	1
+in	34	 	1
+in	35	 	1
+in	37	 	2
+in	38	 	1
+in	4	 	112427
+in	44	 	1
+in	5	 	55318
+in	6	 	31365
+in	7	 	17654
+in	8	 	11290
+in	9	 	7534
+in between	10	 	1
+in between	11	 	1
+in between	16	 	1
+in between	18	 	1
+in between	2	 	5
+in between	3	 	19
+in between	4	 	12
+in between	5	 	1
+in between	6	 	5
+in between	7	 	2
+inside	1	 	9
+inside	10	 	18
+inside	11	 	25
+inside	12	 	19
+inside	13	 	14
+inside	14	 	6
+inside	15	 	8
+inside	16	 	5
+inside	17	 	4
+inside	18	 	3
+inside	19	 	3
+inside	2	 	34023
+inside	3	 	2081
+inside	4	 	466
+inside	5	 	259
+inside	6	 	154
+inside	7	 	97
+inside	8	 	64
+inside	9	 	45
+instead of	10	 	26
+instead of	11	 	26
+instead of	12	 	24
+instead of	13	 	12
+instead of	14	 	10
+instead of	15	 	11
+instead of	16	 	8
+instead of	17	 	7
+instead of	18	 	7
+instead of	19	 	2
+instead of	2	 	50
+instead of	20	 	5
+instead of	21	 	1
+instead of	3	 	300
+instead of	4	 	304
+instead of	5	 	208
+instead of	6	 	117
+instead of	7	 	87
+instead of	8	 	43
+instead of	9	 	32
+into	1	 	118
+into	10	 	313
+into	11	 	222
+into	12	 	142
+into	13	 	110
+into	14	 	85
+into	15	 	60
+into	16	 	34
+into	17	 	35
+into	18	 	21
+into	19	 	18
+into	2	 	6275
+into	20	 	23
+into	22	 	2
+into	3	 	11020
+into	4	 	6632
+into	5	 	3822
+into	6	 	2230
+into	7	 	1301
+into	8	 	844
+into	9	 	558
+inv-aux	0	 	4456
+inv-aux	1	 	876
+inv-aux	2	 	904
+inv-aux	3	 	109
+inv-aux	4	 	18
+inv-aux	5	 	6
+inv-aux	6	 	6
+inv-be	0	 	507
+inv-be	1	 	196
+inv-be	2	 	149
+inv-be	3	 	22
+inv-be	4	 	3
+inv-be	5	 	2
+inv-have	0	 	806
+inv-have	1	 	173
+inv-have	2	 	145
+inv-have	3	 	16
+inv-have	4	 	8
+inv-have	5	 	2
+less	1	 	9
+less	10	 	7
+less	11	 	6
+less	12	 	4
+less	13	 	1
+less	14	 	2
+less	15	 	1
+less	16	 	3
+less	17	 	4
+less	19	 	1
+less	2	 	297
+less	25	 	1
+less	3	 	99
+less	4	 	48
+less	5	 	36
+less	6	 	34
+less	7	 	15
+less	8	 	17
+less	9	 	9
+like	1	 	370
+like	10	 	59
+like	11	 	44
+like	12	 	40
+like	13	 	29
+like	14	 	13
+like	15	 	13
+like	16	 	12
+like	17	 	7
+like	18	 	5
+like	19	 	5
+like	2	 	2863
+like	20	 	4
+like	3	 	2117
+like	4	 	1214
+like	5	 	617
+like	6	 	363
+like	7	 	195
+like	8	 	121
+like	9	 	72
+location	2	 	757
+location	3	 	142
+mid	10	 	3
+mid	13	 	1
+mid	14	 	1
+mid	15	 	1
+mid	2	 	5
+mid	3	 	10
+mid	4	 	3
+mid	5	 	3
+mid	8	 	1
+mid	9	 	1
+midst	13	 	1
+midst	4	 	2
+midst	6	 	1
+midst	7	 	1
+midst	9	 	1
+minus	1	 	2
+minus	10	 	4
+minus	11	 	7
+minus	12	 	3
+minus	13	 	4
+minus	15	 	5
+minus	16	 	3
+minus	19	 	1
+minus	2	 	51
+minus	3	 	108
+minus	4	 	31
+minus	5	 	74
+minus	6	 	6
+minus	7	 	8
+minus	9	 	5
+mod	0	 	311605
+mod	1	 	4526070
+mod	10	 	42475
+mod	11	 	33050
+mod	12	 	26236
+mod	13	 	20696
+mod	14	 	16547
+mod	15	 	12507
+mod	16	 	9857
+mod	17	 	7654
+mod	18	 	5561
+mod	19	 	4089
+mod	2	 	659799
+mod	20	 	2163
+mod	21	 	69
+mod	22	 	37
+mod	23	 	21
+mod	24	 	9
+mod	25	 	5
+mod	26	 	4
+mod	28	 	2
+mod	3	 	370507
+mod	4	 	232661
+mod	5	 	152926
+mod	6	 	114206
+mod	7	 	88360
+mod	8	 	68651
+mod	9	 	54024
+near	1	 	13
+near	10	 	144
+near	11	 	118
+near	12	 	78
+near	13	 	66
+near	14	 	61
+near	15	 	55
+near	16	 	40
+near	17	 	28
+near	18	 	18
+near	19	 	17
+near	2	 	1700
+near	20	 	11
+near	21	 	3
+near	3	 	2430
+near	31	 	1
+near	4	 	1617
+near	5	 	867
+near	6	 	590
+near	7	 	392
+near	8	 	249
+near	9	 	198
+neg	1	 	81630
+neg	2	 	5
+nn	1	 	1093284
+nn	10	 	2
+nn	2	 	226356
+nn	3	 	78919
+nn	4	 	32323
+nn	5	 	10874
+nn	6	 	364
+nn	7	 	95
+nn	8	 	32
+nn	9	 	12
+notwithstanding	1	 	3
+notwithstanding	10	 	1
+notwithstanding	11	 	1
+notwithstanding	13	 	1
+notwithstanding	2	 	4
+notwithstanding	3	 	6
+notwithstanding	4	 	1
+notwithstanding	5	 	4
+notwithstanding	6	 	3
+notwithstanding	7	 	1
+notwithstanding	8	 	1
+num	1	 	83344
+num	10	 	40
+num	11	 	33
+num	12	 	19
+num	13	 	16
+num	14	 	14
+num	15	 	12
+num	16	 	10
+num	17	 	5
+num	18	 	9
+num	19	 	6
+num	2	 	34342
+num	20	 	3
+num	3	 	7217
+num	4	 	3979
+num	5	 	1460
+num	6	 	431
+num	7	 	346
+num	8	 	225
+num	9	 	92
+o'	2	 	3
+o'	7	 	1
+o'	9	 	1
+obj	1	 	1235958
+obj	10	 	1369
+obj	11	 	705
+obj	12	 	229
+obj	13	 	144
+obj	14	 	65
+obj	15	 	26
+obj	16	 	16
+obj	17	 	11
+obj	18	 	4
+obj	19	 	6
+obj	2	 	681989
+obj	20	 	4
+obj	3	 	336598
+obj	4	 	142703
+obj	5	 	71044
+obj	6	 	29547
+obj	7	 	15331
+obj	8	 	6671
+obj	9	 	3253
+obj2	1	 	7359
+obj2	10	 	1072
+obj2	11	 	954
+obj2	12	 	837
+obj2	13	 	729
+obj2	14	 	640
+obj2	15	 	491
+obj2	16	 	435
+obj2	17	 	396
+obj2	18	 	323
+obj2	19	 	320
+obj2	2	 	11276
+obj2	20	 	258
+obj2	21	 	4
+obj2	22	 	3
+obj2	23	 	1
+obj2	3	 	11323
+obj2	4	 	6725
+obj2	5	 	4378
+obj2	6	 	2822
+obj2	7	 	2179
+obj2	8	 	1644
+obj2	9	 	1361
+of	1	 	1639
+of	10	 	3843
+of	11	 	2007
+of	12	 	1322
+of	13	 	918
+of	14	 	685
+of	15	 	571
+of	16	 	464
+of	17	 	379
+of	18	 	331
+of	19	 	305
+of	2	 	249225
+of	20	 	236
+of	21	 	6
+of	22	 	4
+of	23	 	2
+of	25	 	2
+of	3	 	282243
+of	35	 	1
+of	4	 	141177
+of	5	 	80591
+of	6	 	46321
+of	7	 	23817
+of	8	 	13499
+of	9	 	6390
+off	1	 	27
+off	10	 	54
+off	11	 	36
+off	12	 	29
+off	13	 	27
+off	14	 	17
+off	15	 	10
+off	16	 	10
+off	17	 	6
+off	18	 	6
+off	19	 	3
+off	2	 	1879
+off	20	 	10
+off	3	 	4060
+off	4	 	1849
+off	5	 	893
+off	6	 	473
+off	7	 	238
+off	8	 	122
+off	9	 	82
+on	1	 	6944
+on	10	 	1921
+on	11	 	1400
+on	12	 	1156
+on	13	 	690
+on	14	 	618
+on	15	 	448
+on	16	 	295
+on	17	 	236
+on	18	 	195
+on	19	 	143
+on	2	 	59992
+on	20	 	140
+on	21	 	6
+on	22	 	3
+on	23	 	3
+on	24	 	2
+on	29	 	1
+on	3	 	74775
+on	31	 	1
+on	34	 	1
+on	37	 	1
+on	4	 	36733
+on	5	 	22600
+on	57	 	1
+on	6	 	13351
+on	7	 	6668
+on	8	 	4308
+on	9	 	2826
+on to	10	 	3
+on to	11	 	3
+on to	12	 	1
+on to	13	 	1
+on to	14	 	2
+on to	15	 	1
+on to	16	 	1
+on to	18	 	2
+on to	19	 	1
+on to	2	 	10
+on to	20	 	1
+on to	3	 	126
+on to	4	 	121
+on to	5	 	92
+on to	6	 	55
+on to	7	 	20
+on to	8	 	16
+on to	9	 	4
+onto	1	 	6
+onto	10	 	14
+onto	11	 	5
+onto	12	 	6
+onto	13	 	3
+onto	14	 	2
+onto	15	 	4
+onto	16	 	3
+onto	17	 	1
+onto	18	 	1
+onto	2	 	189
+onto	3	 	645
+onto	4	 	360
+onto	5	 	157
+onto	6	 	121
+onto	7	 	62
+onto	8	 	37
+onto	9	 	20
+out	1	 	206
+out	10	 	14
+out	11	 	6
+out	12	 	4
+out	13	 	3
+out	14	 	3
+out	15	 	5
+out	16	 	5
+out	17	 	1
+out	18	 	1
+out	19	 	4
+out	2	 	2057
+out	20	 	2
+out	21	 	1
+out	3	 	1705
+out	4	 	655
+out	5	 	274
+out	6	 	139
+out	7	 	70
+out	8	 	22
+out	9	 	17
+out of	10	 	97
+out of	11	 	60
+out of	12	 	38
+out of	13	 	30
+out of	14	 	26
+out of	15	 	15
+out of	16	 	15
+out of	17	 	10
+out of	18	 	4
+out of	19	 	4
+out of	2	 	84
+out of	20	 	8
+out of	21	 	1
+out of	26	 	1
+out of	3	 	2647
+out of	4	 	2799
+out of	45	 	1
+out of	5	 	1498
+out of	6	 	726
+out of	7	 	440
+out of	8	 	210
+out of	9	 	144
+outside	1	 	22
+outside	10	 	48
+outside	11	 	35
+outside	12	 	29
+outside	13	 	18
+outside	14	 	15
+outside	15	 	15
+outside	16	 	6
+outside	17	 	6
+outside	18	 	5
+outside	19	 	4
+outside	2	 	721
+outside	20	 	4
+outside	3	 	1879
+outside	34	 	1
+outside	4	 	1185
+outside	5	 	605
+outside	6	 	356
+outside	7	 	238
+outside	8	 	133
+outside	9	 	73
+over	1	 	266
+over	10	 	218
+over	11	 	117
+over	12	 	98
+over	13	 	61
+over	14	 	54
+over	15	 	41
+over	16	 	37
+over	17	 	34
+over	18	 	18
+over	19	 	21
+over	2	 	4536
+over	20	 	8
+over	21	 	1
+over	22	 	1
+over	23	 	1
+over	25	 	1
+over	3	 	8721
+over	4	 	4994
+over	5	 	3785
+over	6	 	1767
+over	7	 	914
+over	8	 	543
+over	9	 	340
+past	1	 	12
+past	10	 	13
+past	11	 	6
+past	12	 	2
+past	13	 	5
+past	14	 	4
+past	15	 	3
+past	16	 	3
+past	17	 	1
+past	18	 	2
+past	19	 	1
+past	2	 	83
+past	3	 	221
+past	4	 	145
+past	5	 	83
+past	6	 	54
+past	7	 	19
+past	8	 	18
+past	9	 	11
+pcomp-n	1	 	100
+pending	1	 	2
+pending	10	 	17
+pending	11	 	8
+pending	12	 	11
+pending	13	 	8
+pending	14	 	7
+pending	15	 	2
+pending	16	 	2
+pending	18	 	1
+pending	19	 	3
+pending	2	 	30
+pending	3	 	248
+pending	4	 	98
+pending	5	 	88
+pending	6	 	64
+pending	7	 	41
+pending	8	 	31
+pending	9	 	33
+per	1	 	27
+per	10	 	10
+per	11	 	6
+per	12	 	4
+per	13	 	7
+per	14	 	3
+per	15	 	2
+per	17	 	1
+per	18	 	2
+per	19	 	2
+per	2	 	2823
+per	20	 	1
+per	3	 	548
+per	4	 	239
+per	5	 	98
+per	6	 	52
+per	7	 	34
+per	8	 	21
+per	9	 	14
+person	1	 	21751
+person	2	 	63053
+person	3	 	15029
+person	4	 	1766
+person	5	 	39
+person	6	 	8
+person	7	 	2
+pertain to	7	 	1
+plus	1	 	1
+plus	10	 	44
+plus	11	 	44
+plus	12	 	35
+plus	13	 	25
+plus	14	 	39
+plus	15	 	14
+plus	16	 	19
+plus	17	 	17
+plus	18	 	15
+plus	19	 	15
+plus	2	 	195
+plus	20	 	13
+plus	3	 	269
+plus	4	 	122
+plus	5	 	140
+plus	6	 	67
+plus	7	 	52
+plus	8	 	65
+plus	9	 	55
+pnmod	1	 	36940
+pnmod	10	 	26
+pnmod	11	 	23
+pnmod	12	 	11
+pnmod	13	 	16
+pnmod	14	 	24
+pnmod	15	 	15
+pnmod	16	 	9
+pnmod	17	 	9
+pnmod	18	 	9
+pnmod	19	 	12
+pnmod	2	 	11597
+pnmod	20	 	6
+pnmod	3	 	2096
+pnmod	4	 	773
+pnmod	5	 	190
+pnmod	6	 	77
+pnmod	7	 	38
+pnmod	8	 	20
+pnmod	9	 	25
+post	1	 	95552
+post	10	 	8
+post	11	 	2
+post	12	 	4
+post	13	 	1
+post	2	 	25606
+post	3	 	4718
+post	4	 	1985
+post	5	 	629
+post	6	 	244
+post	7	 	82
+post	8	 	29
+post	9	 	10
+pre	1	 	20772
+pre	10	 	5
+pre	11	 	7
+pre	12	 	2
+pre	14	 	1
+pre	15	 	1
+pre	2	 	19558
+pre	3	 	6328
+pre	4	 	3346
+pre	5	 	807
+pre	6	 	234
+pre	7	 	105
+pre	8	 	382
+pre	9	 	16
+pred	1	 	257457
+pred	10	 	549
+pred	11	 	370
+pred	12	 	247
+pred	13	 	235
+pred	14	 	169
+pred	15	 	147
+pred	16	 	141
+pred	17	 	111
+pred	18	 	102
+pred	19	 	84
+pred	2	 	147653
+pred	20	 	43
+pred	21	 	16
+pred	22	 	4
+pred	23	 	1
+pred	24	 	1
+pred	3	 	80704
+pred	4	 	32713
+pred	5	 	15049
+pred	6	 	6903
+pred	7	 	3417
+pred	8	 	1833
+pred	9	 	981
+prior to	10	 	7
+prior to	11	 	4
+prior to	12	 	4
+prior to	13	 	5
+prior to	14	 	3
+prior to	15	 	1
+prior to	16	 	1
+prior to	17	 	3
+prior to	18	 	4
+prior to	19	 	3
+prior to	2	 	43
+prior to	3	 	128
+prior to	4	 	243
+prior to	5	 	116
+prior to	6	 	63
+prior to	7	 	44
+prior to	8	 	26
+prior to	9	 	10
+re	2	 	1
+re	3	 	1
+re	6	 	1
+re	7	 	1
+regarding	1	 	11
+regarding	10	 	3
+regarding	11	 	6
+regarding	12	 	3
+regarding	13	 	1
+regarding	14	 	5
+regarding	15	 	2
+regarding	17	 	1
+regarding	19	 	1
+regarding	2	 	129
+regarding	20	 	1
+regarding	3	 	179
+regarding	4	 	88
+regarding	5	 	52
+regarding	6	 	33
+regarding	7	 	27
+regarding	8	 	12
+regarding	9	 	9
+rel	0	 	141
+rel	1	 	468361
+rel	10	 	562
+rel	11	 	369
+rel	12	 	250
+rel	13	 	171
+rel	14	 	140
+rel	15	 	89
+rel	16	 	82
+rel	17	 	45
+rel	18	 	48
+rel	19	 	17
+rel	2	 	1133
+rel	20	 	3
+rel	3	 	14574
+rel	4	 	14350
+rel	5	 	7354
+rel	6	 	4147
+rel	7	 	2682
+rel	8	 	1479
+rel	9	 	959
+respecting	1	 	1
+respecting	11	 	1
+respecting	2	 	2
+respecting	3	 	4
+round	1	 	1
+round	10	 	1
+round	12	 	1
+round	2	 	9
+round	20	 	1
+round	3	 	12
+round	4	 	6
+round	5	 	4
+round	6	 	1
+round	7	 	2
+round	8	 	3
+sans	15	 	1
+sans	2	 	5
+sans	3	 	1
+sans	5	 	1
+save	1	 	1
+save	12	 	1
+save	13	 	2
+save	15	 	2
+save	2	 	7
+save	3	 	9
+save	4	 	9
+save	5	 	11
+save	6	 	6
+save	7	 	2
+save	8	 	2
+saving	4	 	1
+saving	5	 	1
+saving	7	 	1
+sc	1	 	4509
+sc	10	 	548
+sc	11	 	395
+sc	12	 	293
+sc	13	 	242
+sc	14	 	193
+sc	15	 	150
+sc	16	 	129
+sc	17	 	109
+sc	18	 	86
+sc	19	 	89
+sc	2	 	28130
+sc	20	 	82
+sc	21	 	5
+sc	22	 	2
+sc	23	 	1
+sc	26	 	1
+sc	3	 	16845
+sc	4	 	9595
+sc	5	 	4896
+sc	6	 	2754
+sc	7	 	1718
+sc	8	 	1142
+sc	9	 	757
+self	1	 	282
+since	1	 	71
+since	10	 	79
+since	11	 	58
+since	12	 	39
+since	13	 	27
+since	14	 	28
+since	15	 	15
+since	16	 	14
+since	17	 	14
+since	18	 	10
+since	19	 	11
+since	2	 	7222
+since	20	 	2
+since	3	 	5253
+since	4	 	2148
+since	5	 	1438
+since	6	 	579
+since	7	 	379
+since	8	 	224
+since	9	 	141
+subclass	0	 	628
+subj	0	 	215971
+subj	1	 	3304124
+subj	10	 	237
+subj	11	 	142
+subj	12	 	105
+subj	13	 	66
+subj	14	 	67
+subj	15	 	57
+subj	16	 	43
+subj	17	 	35
+subj	18	 	23
+subj	19	 	24
+subj	2	 	305765
+subj	20	 	24
+subj	23	 	1
+subj	3	 	51005
+subj	4	 	18273
+subj	5	 	7526
+subj	6	 	3617
+subj	7	 	1915
+subj	8	 	773
+subj	9	 	376
+subj-aboard	0	 	66
+subj-aboard	1	 	119
+subj-aboard	2	 	33
+subj-aboard	3	 	16
+subj-aboard	4	 	11
+subj-aboard	5	 	6
+subj-aboard	6	 	3
+subj-aboard	7	 	1
+subj-about	0	 	340
+subj-about	1	 	301
+subj-about	2	 	195
+subj-about	3	 	63
+subj-about	4	 	26
+subj-about	5	 	7
+subj-about	6	 	6
+subj-about	7	 	3
+subj-about	8	 	1
+subj-above	0	 	37
+subj-above	1	 	84
+subj-above	2	 	22
+subj-above	3	 	7
+subj-above	4	 	7
+subj-above	5	 	1
+subj-according to	0	 	4
+subj-according to	1	 	1
+subj-across	1	 	36
+subj-across	2	 	19
+subj-across	3	 	1
+subj-across	4	 	1
+subj-after	0	 	66
+subj-after	1	 	36
+subj-after	2	 	24
+subj-after	3	 	8
+subj-after	4	 	3
+subj-after	5	 	1
+subj-after	7	 	1
+subj-against	0	 	219
+subj-against	1	 	211
+subj-against	2	 	82
+subj-against	3	 	28
+subj-against	4	 	10
+subj-against	5	 	5
+subj-against	9	 	1
+subj-agin	1	 	2
+subj-all over	0	 	20
+subj-all over	1	 	43
+subj-all over	2	 	5
+subj-along	0	 	2
+subj-along	1	 	14
+subj-along	2	 	13
+subj-along	3	 	3
+subj-along	4	 	1
+subj-along with	1	 	1
+subj-alongside	0	 	2
+subj-alongside	2	 	1
+subj-amid	0	 	2
+subj-amid	1	 	2
+subj-amid	2	 	1
+subj-among	0	 	663
+subj-among	1	 	1247
+subj-among	10	 	1
+subj-among	11	 	3
+subj-among	2	 	568
+subj-among	3	 	250
+subj-among	4	 	132
+subj-among	5	 	61
+subj-among	6	 	24
+subj-among	7	 	8
+subj-among	8	 	5
+subj-amongst	0	 	4
+subj-amongst	1	 	1
+subj-around	0	 	94
+subj-around	1	 	106
+subj-around	2	 	37
+subj-around	3	 	6
+subj-around	4	 	5
+subj-as	0	 	742
+subj-as	1	 	132
+subj-as	10	 	4
+subj-as	11	 	3
+subj-as	12	 	2
+subj-as	13	 	1
+subj-as	15	 	1
+subj-as	16	 	2
+subj-as	2	 	67
+subj-as	3	 	16
+subj-as	4	 	17
+subj-as	5	 	9
+subj-as	6	 	7
+subj-as	7	 	5
+subj-as	8	 	1
+subj-as of	0	 	2
+subj-as of	1	 	3
+subj-as of	3	 	1
+subj-as to	0	 	3
+subj-as to	2	 	1
+subj-at	0	 	1763
+subj-at	1	 	1743
+subj-at	14	 	2
+subj-at	2	 	761
+subj-at	3	 	259
+subj-at	4	 	117
+subj-at	5	 	28
+subj-at	6	 	12
+subj-at	7	 	3
+subj-at	8	 	2
+subj-at	9	 	2
+subj-because of	0	 	30
+subj-because of	1	 	75
+subj-because of	2	 	46
+subj-because of	3	 	20
+subj-because of	4	 	5
+subj-because of	5	 	1
+subj-because of	8	 	1
+subj-before	0	 	46
+subj-before	1	 	76
+subj-before	2	 	40
+subj-before	3	 	17
+subj-before	4	 	16
+subj-before	5	 	2
+subj-before	6	 	1
+subj-behind	0	 	139
+subj-behind	1	 	175
+subj-behind	2	 	61
+subj-behind	3	 	17
+subj-behind	4	 	8
+subj-behind	5	 	2
+subj-behind	6	 	6
+subj-behind	7	 	2
+subj-below	0	 	83
+subj-below	1	 	57
+subj-below	2	 	25
+subj-below	3	 	18
+subj-below	4	 	15
+subj-below	5	 	6
+subj-below	7	 	3
+subj-beneath	0	 	2
+subj-beneath	1	 	4
+subj-beneath	2	 	2
+subj-beneath	4	 	1
+subj-beside	0	 	7
+subj-beside	1	 	5
+subj-beside	3	 	1
+subj-between	0	 	107
+subj-between	1	 	88
+subj-between	10	 	1
+subj-between	2	 	46
+subj-between	3	 	41
+subj-between	4	 	10
+subj-between	5	 	1
+subj-between	7	 	1
+subj-beyond	0	 	64
+subj-beyond	1	 	75
+subj-beyond	2	 	7
+subj-beyond	3	 	12
+subj-beyond	4	 	3
+subj-but	0	 	27
+subj-but	1	 	30
+subj-but	15	 	1
+subj-but	2	 	9
+subj-but	3	 	4
+subj-but	4	 	2
+subj-by	0	 	170
+subj-by	1	 	215
+subj-by	13	 	1
+subj-by	2	 	58
+subj-by	3	 	20
+subj-by	4	 	22
+subj-by	5	 	10
+subj-by	6	 	3
+subj-by	7	 	3
+subj-by	8	 	2
+subj-concerning	0	 	1
+subj-concerning	1	 	3
+subj-despite	0	 	4
+subj-despite	1	 	6
+subj-despite	2	 	3
+subj-despite	3	 	1
+subj-down	0	 	759
+subj-down	1	 	689
+subj-down	2	 	194
+subj-down	3	 	22
+subj-down	4	 	13
+subj-down	5	 	1
+subj-down	6	 	2
+subj-down	9	 	1
+subj-due to	0	 	256
+subj-due to	1	 	239
+subj-due to	2	 	90
+subj-due to	3	 	49
+subj-due to	4	 	17
+subj-due to	5	 	11
+subj-due to	6	 	4
+subj-due to	7	 	2
+subj-during	0	 	3
+subj-during	1	 	37
+subj-during	2	 	18
+subj-during	3	 	5
+subj-during	4	 	4
+subj-during	5	 	6
+subj-during	6	 	1
+subj-during	7	 	1
+subj-except	0	 	4
+subj-except for	1	 	1
+subj-for	0	 	1070
+subj-for	1	 	865
+subj-for	2	 	390
+subj-for	3	 	136
+subj-for	4	 	51
+subj-for	5	 	24
+subj-for	6	 	13
+subj-for	8	 	1
+subj-for	9	 	7
+subj-from	0	 	441
+subj-from	1	 	565
+subj-from	2	 	239
+subj-from	3	 	120
+subj-from	4	 	56
+subj-from	5	 	28
+subj-from	6	 	6
+subj-from	7	 	10
+subj-from	8	 	7
+subj-in	0	 	8912
+subj-in	1	 	8581
+subj-in	10	 	2
+subj-in	12	 	1
+subj-in	13	 	1
+subj-in	17	 	2
+subj-in	2	 	2980
+subj-in	3	 	1114
+subj-in	4	 	398
+subj-in	5	 	133
+subj-in	6	 	71
+subj-in	7	 	27
+subj-in	8	 	10
+subj-in	9	 	3
+subj-in between	0	 	2
+subj-in between	1	 	5
+subj-inside	0	 	25
+subj-inside	1	 	79
+subj-inside	2	 	24
+subj-inside	3	 	9
+subj-inside	4	 	5
+subj-inside	6	 	3
+subj-instead of	0	 	1
+subj-into	0	 	38
+subj-into	1	 	28
+subj-into	2	 	10
+subj-into	3	 	3
+subj-into	5	 	1
+subj-into	6	 	2
+subj-less	0	 	84
+subj-less	1	 	20
+subj-less	2	 	5
+subj-like	0	 	853
+subj-like	1	 	441
+subj-like	2	 	278
+subj-like	3	 	71
+subj-like	4	 	40
+subj-like	5	 	15
+subj-like	6	 	4
+subj-like	7	 	1
+subj-like	8	 	3
+subj-minus	0	 	22
+subj-minus	1	 	9
+subj-minus	8	 	1
+subj-near	0	 	85
+subj-near	1	 	143
+subj-near	10	 	1
+subj-near	2	 	81
+subj-near	3	 	37
+subj-near	4	 	11
+subj-near	5	 	2
+subj-near	6	 	2
+subj-near	7	 	1
+subj-of	0	 	292
+subj-of	1	 	639
+subj-of	2	 	210
+subj-of	3	 	68
+subj-of	4	 	21
+subj-of	5	 	14
+subj-of	6	 	5
+subj-of	7	 	2
+subj-of	8	 	1
+subj-off	0	 	372
+subj-off	1	 	346
+subj-off	2	 	120
+subj-off	3	 	30
+subj-off	4	 	10
+subj-off	5	 	2
+subj-on	0	 	2009
+subj-on	1	 	3572
+subj-on	10	 	2
+subj-on	2	 	1264
+subj-on	3	 	343
+subj-on	4	 	218
+subj-on	5	 	84
+subj-on	6	 	47
+subj-on	7	 	21
+subj-on	8	 	5
+subj-on	9	 	4
+subj-on to	0	 	6
+subj-on to	1	 	4
+subj-on to	2	 	4
+subj-on to	3	 	2
+subj-onto	0	 	4
+subj-onto	5	 	1
+subj-out	0	 	310
+subj-out	1	 	28
+subj-out	2	 	8
+subj-out	3	 	2
+subj-out	9	 	1
+subj-out of	0	 	651
+subj-out of	1	 	370
+subj-out of	2	 	31
+subj-out of	3	 	3
+subj-out of	5	 	1
+subj-out of	6	 	1
+subj-outside	0	 	14
+subj-outside	1	 	67
+subj-outside	2	 	29
+subj-outside	3	 	6
+subj-outside	4	 	4
+subj-outside	5	 	1
+subj-over	0	 	105
+subj-over	1	 	116
+subj-over	2	 	46
+subj-over	3	 	27
+subj-over	4	 	8
+subj-over	5	 	1
+subj-over	6	 	1
+subj-past	0	 	1
+subj-past	1	 	12
+subj-past	2	 	8
+subj-past	3	 	2
+subj-pending	0	 	1
+subj-pending	1	 	4
+subj-pending	2	 	1
+subj-per	0	 	1
+subj-per	1	 	2
+subj-plus	1	 	1
+subj-prior to	1	 	2
+subj-regarding	0	 	2
+subj-regarding	1	 	2
+subj-regarding	4	 	1
+subj-respecting	1	 	1
+subj-round	0	 	1
+subj-round	4	 	1
+subj-save	1	 	2
+subj-save	3	 	1
+subj-saving	2	 	1
+subj-since	0	 	23
+subj-since	1	 	26
+subj-since	2	 	5
+subj-since	3	 	2
+subj-since	4	 	2
+subj-since	6	 	1
+subj-such as	0	 	1
+subj-such as	1	 	2
+subj-such as	2	 	3
+subj-than	0	 	135
+subj-than	1	 	122
+subj-than	2	 	39
+subj-than	3	 	23
+subj-than	4	 	8
+subj-than	5	 	2
+subj-than	6	 	1
+subj-than	8	 	1
+subj-thanks to	0	 	1
+subj-thanks to	1	 	5
+subj-through	0	 	70
+subj-through	1	 	84
+subj-through	2	 	29
+subj-through	3	 	14
+subj-through	5	 	3
+subj-through	6	 	1
+subj-throughout	0	 	3
+subj-throughout	1	 	11
+subj-throughout	5	 	2
+subj-till	0	 	2
+subj-till	1	 	1
+subj-to	0	 	1313
+subj-to	1	 	650
+subj-to	2	 	248
+subj-to	3	 	87
+subj-to	4	 	42
+subj-to	5	 	13
+subj-to	6	 	7
+subj-to	7	 	6
+subj-to	8	 	2
+subj-toward	0	 	11
+subj-toward	1	 	14
+subj-toward	2	 	15
+subj-toward	3	 	2
+subj-toward	4	 	1
+subj-towards	1	 	1
+subj-towards	2	 	1
+subj-under	0	 	2225
+subj-under	1	 	882
+subj-under	2	 	209
+subj-under	3	 	96
+subj-under	4	 	30
+subj-under	5	 	8
+subj-under	6	 	3
+subj-under	7	 	2
+subj-underneath	0	 	4
+subj-underneath	1	 	1
+subj-underneath	2	 	5
+subj-unlike	0	 	15
+subj-unlike	1	 	11
+subj-unlike	13	 	1
+subj-unlike	2	 	3
+subj-unlike	4	 	2
+subj-unlike	6	 	1
+subj-until	0	 	33
+subj-until	1	 	36
+subj-until	2	 	8
+subj-until	3	 	1
+subj-until	5	 	1
+subj-up	0	 	1162
+subj-up	1	 	1079
+subj-up	2	 	331
+subj-up	3	 	64
+subj-up	4	 	13
+subj-up	6	 	3
+subj-up	7	 	2
+subj-upon	0	 	9
+subj-upon	1	 	1
+subj-upon	2	 	1
+subj-via	0	 	1
+subj-wanting	1	 	1
+subj-while	0	 	1
+subj-with	0	 	436
+subj-with	1	 	382
+subj-with	10	 	1
+subj-with	2	 	142
+subj-with	3	 	48
+subj-with	4	 	32
+subj-with	5	 	15
+subj-with	6	 	8
+subj-with	7	 	2
+subj-with	8	 	1
+subj-within	0	 	81
+subj-within	1	 	203
+subj-within	2	 	31
+subj-within	3	 	24
+subj-within	4	 	38
+subj-within	5	 	2
+subj-within	6	 	2
+subj-within	8	 	1
+subj-without	0	 	351
+subj-without	1	 	106
+subj-without	2	 	39
+subj-without	3	 	19
+subj-without	5	 	2
+such as	10	 	201
+such as	11	 	228
+such as	12	 	217
+such as	13	 	129
+such as	14	 	103
+such as	15	 	88
+such as	16	 	72
+such as	17	 	53
+such as	18	 	32
+such as	19	 	42
+such as	2	 	109
+such as	20	 	40
+such as	22	 	1
+such as	23	 	1
+such as	3	 	1706
+such as	4	 	1216
+such as	5	 	755
+such as	6	 	565
+such as	7	 	376
+such as	8	 	330
+such as	9	 	280
+than	1	 	193
+than	10	 	234
+than	11	 	150
+than	12	 	113
+than	13	 	94
+than	14	 	70
+than	15	 	49
+than	16	 	41
+than	17	 	29
+than	18	 	24
+than	19	 	19
+than	2	 	5972
+than	20	 	12
+than	21	 	3
+than	22	 	5
+than	23	 	5
+than	24	 	1
+than	25	 	2
+than	26	 	1
+than	27	 	3
+than	28	 	1
+than	29	 	1
+than	3	 	8110
+than	30	 	1
+than	32	 	2
+than	4	 	3574
+than	43	 	1
+than	48	 	1
+than	5	 	2172
+than	6	 	1311
+than	7	 	913
+than	8	 	573
+than	9	 	381
+thanks to	10	 	13
+thanks to	11	 	9
+thanks to	12	 	10
+thanks to	13	 	12
+thanks to	14	 	5
+thanks to	15	 	6
+thanks to	16	 	2
+thanks to	19	 	3
+thanks to	2	 	10
+thanks to	3	 	40
+thanks to	4	 	60
+thanks to	5	 	41
+thanks to	6	 	43
+thanks to	7	 	18
+thanks to	8	 	18
+thanks to	9	 	20
+through	1	 	232
+through	10	 	178
+through	11	 	123
+through	12	 	84
+through	13	 	77
+through	14	 	40
+through	15	 	41
+through	16	 	23
+through	17	 	26
+through	18	 	23
+through	19	 	16
+through	2	 	3354
+through	20	 	14
+through	22	 	1
+through	23	 	2
+through	3	 	6380
+through	4	 	3223
+through	5	 	1926
+through	6	 	1143
+through	7	 	633
+through	8	 	443
+through	9	 	284
+throughout	1	 	21
+throughout	10	 	13
+throughout	11	 	15
+throughout	12	 	6
+throughout	13	 	4
+throughout	14	 	4
+throughout	16	 	3
+throughout	17	 	1
+throughout	19	 	1
+throughout	2	 	498
+throughout	3	 	1667
+throughout	4	 	443
+throughout	5	 	220
+throughout	6	 	120
+throughout	7	 	53
+throughout	8	 	40
+throughout	9	 	20
+thru	2	 	1
+thru	6	 	1
+till	2	 	22
+till	3	 	12
+till	4	 	7
+till	5	 	2
+till	6	 	4
+till	7	 	2
+title	1	 	31286
+title	2	 	31559
+title	3	 	6469
+title	4	 	627
+title	5	 	18
+title	6	 	2
+title	7	 	1
+to	1	 	3157
+to	10	 	2425
+to	11	 	1569
+to	12	 	1054
+to	13	 	840
+to	14	 	553
+to	15	 	479
+to	16	 	382
+to	17	 	297
+to	18	 	221
+to	19	 	161
+to	2	 	81036
+to	20	 	136
+to	21	 	12
+to	22	 	8
+to	23	 	3
+to	24	 	5
+to	25	 	1
+to	26	 	1
+to	27	 	1
+to	3	 	95616
+to	31	 	1
+to	32	 	1
+to	4	 	53306
+to	5	 	27066
+to	6	 	16170
+to	7	 	8987
+to	8	 	5783
+to	9	 	3550
+touching	2	 	2
+touching	3	 	1
+touching	4	 	2
+touching	6	 	2
+toward	1	 	28
+toward	10	 	38
+toward	11	 	20
+toward	12	 	20
+toward	13	 	10
+toward	14	 	6
+toward	15	 	2
+toward	16	 	2
+toward	17	 	7
+toward	18	 	1
+toward	19	 	3
+toward	2	 	1617
+toward	20	 	3
+toward	3	 	1916
+toward	4	 	964
+toward	5	 	549
+toward	6	 	350
+toward	7	 	138
+toward	8	 	85
+toward	9	 	66
+towards	1	 	6
+towards	11	 	3
+towards	14	 	2
+towards	19	 	1
+towards	2	 	92
+towards	3	 	111
+towards	4	 	68
+towards	5	 	29
+towards	6	 	9
+towards	7	 	4
+towards	8	 	2
+towards	9	 	7
+under	1	 	1014
+under	10	 	254
+under	11	 	171
+under	12	 	113
+under	13	 	98
+under	14	 	70
+under	15	 	53
+under	16	 	45
+under	17	 	29
+under	18	 	16
+under	19	 	28
+under	2	 	8180
+under	20	 	16
+under	21	 	1
+under	3	 	8041
+under	4	 	4045
+under	5	 	2347
+under	6	 	1472
+under	7	 	913
+under	8	 	602
+under	9	 	359
+underneath	1	 	3
+underneath	2	 	36
+underneath	3	 	31
+underneath	4	 	13
+underneath	5	 	10
+underneath	6	 	4
+underneath	7	 	3
+underneath	8	 	4
+unlike	1	 	114
+unlike	10	 	7
+unlike	11	 	5
+unlike	12	 	9
+unlike	13	 	4
+unlike	14	 	2
+unlike	15	 	1
+unlike	16	 	3
+unlike	17	 	1
+unlike	18	 	1
+unlike	2	 	201
+unlike	3	 	168
+unlike	4	 	112
+unlike	5	 	54
+unlike	6	 	42
+unlike	7	 	28
+unlike	8	 	13
+unlike	9	 	15
+until	1	 	140
+until	10	 	75
+until	11	 	43
+until	12	 	36
+until	13	 	37
+until	14	 	22
+until	15	 	15
+until	16	 	18
+until	17	 	7
+until	18	 	8
+until	19	 	4
+until	2	 	1820
+until	20	 	3
+until	3	 	2183
+until	34	 	1
+until	4	 	975
+until	5	 	676
+until	6	 	322
+until	7	 	213
+until	8	 	176
+until	9	 	112
+unto	1	 	1
+unto	2	 	11
+unto	3	 	7
+unto	5	 	2
+unto	8	 	1
+up	1	 	64
+up	10	 	116
+up	11	 	146
+up	12	 	104
+up	13	 	80
+up	14	 	98
+up	15	 	42
+up	16	 	44
+up	17	 	33
+up	18	 	16
+up	19	 	13
+up	2	 	2697
+up	20	 	18
+up	21	 	1
+up	3	 	4733
+up	4	 	1852
+up	5	 	985
+up	6	 	775
+up	7	 	566
+up	8	 	278
+up	9	 	170
+upon	1	 	81
+upon	10	 	8
+upon	11	 	6
+upon	12	 	2
+upon	13	 	2
+upon	14	 	2
+upon	17	 	2
+upon	18	 	1
+upon	19	 	1
+upon	2	 	432
+upon	20	 	1
+upon	3	 	403
+upon	4	 	176
+upon	5	 	90
+upon	6	 	37
+upon	7	 	35
+upon	8	 	17
+upon	9	 	11
+versus	1	 	2
+versus	10	 	2
+versus	12	 	1
+versus	15	 	2
+versus	16	 	1
+versus	2	 	36
+versus	3	 	37
+versus	4	 	12
+versus	5	 	6
+versus	6	 	9
+versus	7	 	14
+versus	8	 	4
+versus	9	 	3
+via	1	 	3
+via	10	 	10
+via	11	 	3
+via	12	 	6
+via	13	 	6
+via	17	 	2
+via	18	 	2
+via	19	 	1
+via	2	 	214
+via	20	 	2
+via	3	 	101
+via	4	 	76
+via	5	 	50
+via	6	 	37
+via	7	 	30
+via	8	 	18
+via	9	 	13
+vrel	1	 	127847
+vrel	10	 	464
+vrel	11	 	308
+vrel	12	 	194
+vrel	13	 	139
+vrel	14	 	97
+vrel	15	 	90
+vrel	16	 	84
+vrel	17	 	37
+vrel	18	 	43
+vrel	19	 	29
+vrel	2	 	41744
+vrel	20	 	33
+vrel	3	 	10435
+vrel	4	 	8724
+vrel	5	 	4163
+vrel	6	 	2684
+vrel	7	 	1587
+vrel	8	 	1069
+vrel	9	 	720
+wanting	1	 	1
+wanting	2	 	5
+wanting	3	 	6
+wanting	4	 	3
+wanting	5	 	1
+wanting	6	 	1
+while	7	 	1
+with	1	 	1813
+with	10	 	2327
+with	11	 	1654
+with	12	 	1367
+with	13	 	955
+with	14	 	800
+with	15	 	684
+with	16	 	558
+with	17	 	337
+with	18	 	257
+with	19	 	230
+with	2	 	44832
+with	20	 	724
+with	21	 	13
+with	22	 	3
+with	24	 	1
+with	27	 	1
+with	3	 	54596
+with	4	 	30577
+with	43	 	1
+with	5	 	17079
+with	6	 	10141
+with	7	 	6074
+with	8	 	4203
+with	9	 	3034
+within	1	 	118
+within	10	 	59
+within	11	 	48
+within	12	 	36
+within	13	 	23
+within	14	 	23
+within	15	 	10
+within	16	 	15
+within	17	 	12
+within	18	 	7
+within	19	 	8
+within	2	 	858
+within	20	 	2
+within	3	 	3404
+within	4	 	1333
+within	5	 	821
+within	6	 	416
+within	7	 	233
+within	8	 	131
+within	9	 	103
+without	1	 	204
+without	10	 	114
+without	11	 	78
+without	12	 	60
+without	13	 	41
+without	14	 	36
+without	15	 	29
+without	16	 	20
+without	17	 	22
+without	18	 	16
+without	19	 	14
+without	2	 	3936
+without	20	 	12
+without	23	 	1
+without	3	 	2625
+without	35	 	1
+without	4	 	1293
+without	5	 	742
+without	6	 	527
+without	7	 	313
+without	8	 	194
+without	9	 	145

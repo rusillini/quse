@@ -1,0 +1,135 @@
+actor
+actress
+Adm.
+agent
+Amb.
+ambassador
+analyst
+Asst.
+attorney
+Atty.
+Brig.
+Captain
+Capt.
+CEO
+CFO
+chairman
+chairman of the board
+chancellor
+chief
+chief executive officer
+chief financial officer
+chief justice
+chief of staff
+chief operating officer
+Cmdr.
+coach
+co-chairman
+Col.
+Colonel
+Comdr.
+commander
+commander in chief
+commissar
+commissioner
+comptroller
+congressman
+congressmen
+consul
+controller
+councillor
+councilman
+councilmen
+counsel
+curator
+deputy
+diplomat
+director
+doctor
+Dr.
+dvm
+embassador
+envoy
+esq
+executive
+executive director
+executive vice president
+finance minister
+Gen.
+general
+general manager
+general secretary
+Gov.
+governor
+Lady
+Jd.
+judge
+justice
+lawyer
+leader
+legislator
+lieutenant governor
+lord
+Lt.
+Maj.
+manager
+managing director
+mayor
+Messrs
+Messrs.
+minister
+Mlle.
+Miss
+Miss.
+Mme.
+Mr
+Mr.
+Mrs
+Mrs.
+Ms
+Ms.
+Msgr.
+Msgrs.
+officer
+official
+officials
+owner
+police chief
+premier
+Pres.
+president
+prince
+proconsul
+prof.
+professor
+Profs.
+provost
+Rep.
+representative
+Rev.
+secretary
+secretary of state
+Secretary-General
+Sen.
+senator
+senior executive
+senior vice president
+Sens.
+Sergeant
+Sgt.
+Sheik
+sheriff
+Sir
+solicitor general
+speaker
+spokesman
+spokesperson
+spokeswoman
+staff
+Supt.
+teacher
+treasurer
+undersecretary
+vice
+vice chairman
+vice president

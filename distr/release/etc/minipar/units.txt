@@ -1,0 +1,765 @@
+abamp
+abampere
+abcoulomb
+abfarad
+abhenry
+abiemens
+abmho
+abohm
+abvolt
+abwatt
+academic year
+acre
+acre inch
+acre-foot
+acre-feet
+aeon
+agate line
+age
+air mile
+amp
+ampere
+ampere-hour
+ampere-minute
+ampere-second
+ampere-turn
+anomalistic month
+anomalistic year
+apothecaries' ounce
+apothecaries' pound
+arcdegree
+archine
+arcminute
+arcsecond
+ardeb
+are
+armful
+arpent
+arroba
+astronomical year
+atmosphere
+attosecond
+bag
+bagful
+bar
+bar absolute
+bar gauge
+barie
+barn
+barnful
+barrel
+barrelful
+barrow
+barrowful
+barye
+basin
+basinful
+basket
+basketful
+bath
+bbl
+bel
+bell
+bimester
+bimillenary
+bimillennium
+bin
+binful
+bit
+blue moon
+board foot
+body length
+bottle
+bottleful
+bowl
+bowlful
+box
+boxful
+bucket
+bucketful
+bushel
+byte
+bytes
+cable
+cable length
+cable's length
+calendar week
+calorie
+calory
+candela
+candle
+canful
+capful
+carat
+carful
+cartload
+carton
+cartonful
+caseful
+cask
+caskful
+cattie
+catty
+cc
+ccs
+cd
+cental
+centare
+centiliter
+centilitre
+centimeter
+centimetre
+centner
+century
+chain
+chaldron
+cicero
+cl
+cm
+column inch
+congius
+cord
+coss
+coulomb
+cran
+crate
+crateful
+crith
+cu ft
+cu in
+cubic centimeter
+cubic centimetre
+cubic decimeter
+cubic decimetre
+cubic foot
+cubic feet
+cubic inch
+cubic kilometer
+cubic kilometre
+cubic meter
+cubic metre
+cubic millimeter
+cubic millimetre
+cubit
+cup
+cupful
+curie
+cwt
+dag
+dal
+dam
+daraf
+day
+day of reckoning
+day shift
+dB
+db
+decade
+decagram
+decaliter
+decalitre
+decameter
+decametre
+decennary
+decennium
+decibel
+decigram
+deciliter
+decilitre
+decimeter
+decimetre
+degree
+degree Celsius
+degree Centigrade
+degree day
+degree Fahrenheit
+dekagram
+dekaliter
+dekalitre
+dekameter
+dekametre
+dessertspoon
+dessertspoonful
+dessiatine
+dg
+digit
+dish
+dishful
+dkg
+dkl
+dkm
+dl
+dm
+dogwatch
+dol
+doppelzentner
+drachm
+drachma
+dram
+drought
+dry pint
+dry quart
+duty period
+dyne
+electron volt
+em
+en
+engineer's chain
+eon
+epha
+ephah
+equinoctial year
+erg
+eV
+evening shift
+exposure
+farad
+fathom
+feet
+femtometer
+femtometre
+femtosecond
+fermi
+field day
+finger
+finger's breadth
+fingerbreadth
+firkin
+fistful
+flask
+flaskful
+fluid drachm
+fluid dram
+fluid ounce
+fluidounce
+fluidram
+foot
+foot-candle
+foot-lambert
+foot-pound
+foot-poundal
+foot-ton
+footcandle
+footer
+fortnight
+frail
+frigorie
+ft
+ft-L
+fthm
+full time
+furlong
+g
+gal
+gallon
+gamma
+gauss
+GB
+Gb
+gee
+geographical mile
+geometric pace
+Gi
+Gigabyte
+gigabyte
+gilbert
+gill
+glass
+glassful
+gm
+go
+gon
+grad
+grade
+grain
+gram
+gram atom
+gram calorie
+gram molecule
+gram-atomic weight
+gramme
+graveyard shift
+graveyard watch
+gross ton
+H.P.
+h.p.
+ha
+half mile
+half time
+half-hour
+hand
+handbreath
+handful
+handsbreadth
+hard times
+hatful
+head
+hebdomad
+hectare
+hectogram
+hectoliter
+hectolitre
+hectometer
+hectometre
+henry
+hg
+hin
+hl
+hm
+hogshead
+Holy Week
+homer
+horsepower
+horsepower-hour
+hour
+hours
+houseful
+HP
+hp
+hr
+hundredweight
+Imperial gallon
+in.
+inch
+indefinite quantity
+international ampere
+international candle
+international nautical mile
+jar
+jarful
+joule
+Judgment Day
+jug
+jugful
+K
+k
+kA
+Karat
+KB
+Kb
+kB
+kb
+keg
+kegful
+kelvin
+kettle
+kettleful
+key
+kg
+kilderkin
+kilo
+Kilobyte
+kilobyte
+kilocalorie
+kilogram
+kilogram calorie
+kilogram-meter
+kiloliter
+kilolitre
+kilometer
+kilometre
+kiloton
+kilovolt
+kilovolt-ampere
+kilowatt
+klick
+km
+knot
+kor
+kos
+kV
+kW
+L
+l
+lambert
+land mile
+langley
+lapful
+large calorie
+Last Day
+lb
+lbf.
+lea
+league
+li
+lightyear
+ligne
+line
+link
+liter
+litre
+lm
+long haul
+long hundredweight
+long run
+long time
+long ton
+lumen
+lunar month
+lunar year
+lunation
+lux
+lx
+m
+mA
+magneton
+mAh
+man hour
+mass number
+match point
+maund
+MB
+Mb
+mcg
+mean solar time
+mean time
+Megabyte
+megabyte
+megaton
+megawatt
+megohm
+mesh
+meter
+metre
+metric grain
+metric hundredweight
+metric ton
+mg
+mho
+MHz
+mi
+microgauss
+microgram
+micrometer
+micrometre
+micromicron
+micromillimeter
+micromillimetre
+micron
+microradian
+microsecond
+middle watch
+midwatch
+mil
+mile
+military pace
+millennium
+milliampere
+millibar
+millicurie
+millidegree
+millifarad
+milligram
+millihenry
+milliliter
+millilitre
+millimeter
+millimeter of mercury
+millimetre
+millimicron
+milline
+milliradian
+millisecond
+millivolt
+milliwatt
+min
+minim
+minute
+ml
+mm
+mm Hg
+mol
+mole
+month
+moon
+morgen
+mouthful
+msec
+mug
+mugful
+mut
+mutchkin
+mutton
+mV
+myg
+mym
+myriagram
+myriameter
+myriametre
+N
+nail
+nanometer
+nanometre
+nanosecond
+naut mi
+nautical chain
+nautical mile
+net ton
+newton
+nibble
+night
+night shift
+night watch
+nip
+nit
+nucleon number
+nut
+nutritionist's calorie
+nybble
+obolus
+oersted
+off-day
+ohm
+ohms
+oka
+Olympiad
+ounce
+overexposure
+overtime
+oxtant
+Pa
+pace
+pail
+pailful
+palm
+parsec
+part time
+pascal
+pdl
+peck
+pennyweight
+perch
+person hour
+pF
+phon
+phot
+pica
+pica em
+picofarad
+picometer
+picometre
+picosecond
+picul
+pieze
+pint
+pipeful
+pitcher
+pitcherful
+plate
+plateful
+pocketful
+point
+poise
+pole
+pood
+pot
+potful
+pound
+poundal
+pounds per square inch
+psi
+quadrant
+quart
+quarter
+quarter mile
+quarter section
+quarter-hour
+quattrocento
+quintal
+rad
+radian
+rag
+rankine
+reciprocal ohm
+REM
+rem
+rod
+roentgen
+roomful
+rotl
+rutherford
+rydberg
+sabin
+sack
+sackful
+Saint Martin's summer
+school
+school year
+schooltime
+scoop
+scoopful
+scruple
+sea mile
+sec
+second
+secpar
+section
+semester
+set point
+sextant
+share
+shelfful
+shift
+ship's bell
+shoeful
+short hundredweight
+short ton
+shovel
+shovelful
+sidereal day
+sidereal hour
+sidereal month
+sidereal year
+siemens
+skepful
+small calorie
+solar month
+solar year
+sone
+space age
+spadeful
+span
+spell
+split shift
+spoon
+spoonful
+sq ft
+sq in
+sq yd
+square feet
+square foot
+square inch
+square meter
+square metre
+square mile
+square yard
+sr
+standard candle
+stat mi
+statute mile
+steradian
+sthene
+stone
+Swedish mile
+swing shift
+synodic month
+T
+tablespoon
+tablespoonful
+tael
+tank
+tankage
+tankful
+TB
+Tb
+teacup
+teacupful
+teaspoon
+teaspoonful
+Terabyte
+terabyte
+tesla
+therm
+thermie
+thimble
+thimbleful
+time
+ton
+torr
+tour
+trick
+tropical year
+troy ounce
+troy pound
+tub
+tubful
+turn
+turnaround
+turnaround time
+twelvemonth
+two weeks
+underexposure
+V
+var
+vara
+verst
+volt
+volt-ampere
+W
+W
+watch
+watt
+watt second
+watt-hour
+week
+weekend
+welterweight
+word
+work shift
+work time
+workday
+working day
+workweek
+yard
+year
+years
+yr
+Wh
+Wh/l
+Wh/kg
+GHz
+kHz
+nanocoulomb
+nC
+pin
+Adc
+milliohms
+milliohm
+kbytes
+kbyte
+Ah
+ppm
+Vac
+Vdc
+mW
+pixel
+dB
+Mbit
+kword
+kbit
+kbits/s
+Mbytes
+transistors
+nm
+mcd
+microamps
+microamp
+microfarads
+Hz
+kilohms
+nH
+Mips
+Mbits
+units
+unit
+macrocells
+mm2
+meg
+gate
+Gbytes
+Gbyte
+Gbit
+mH
+nanocoulomb
+nanocoulomb (nC)
+milohm
+milohms
+fA
+sq.m
+cu.m
+dq.km
+ha
+TEUs
+kwh
+mu
+mw

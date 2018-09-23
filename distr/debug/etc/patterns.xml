@@ -1,0 +1,506 @@
+<!-- $Id: patterns.xml,v 1.8 2009/10/27 20:55:34 akotov2 Exp $ -->
+
+<patterns>
+<!-- Intransitive verb patterns begin here -->
+   <pattern id="1">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n:person> -> <mod> -> <pcomp-n:location> -->
+      <slots> 
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="0" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="person" />
+         <slot id="4" role="mod" parent="3" attrs="" />
+         <slot id="5" role="pcomp-n" parent="4" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Where did {1:stem} {0:stem} {2:term} {3:stem}?" />
+         <question focus="1" text="Who did {1:stem} {0:stem} {2:term} {4:term} {5:stem}?" />
+         <question focus="3" text="Who {0:term} {2:term} {3:stem} {4:term} {5:stem}?" />
+         <question focus="5" text="What did {0:term} do to {3:stem} {4:term} {5:stem}?" />
+      </questions> 
+   </pattern>
+   <pattern id="2">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n:person> -> <mod> -> <pcomp-n:date> -->
+      <slots> 
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="0" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="person" />
+         <slot id="4" role="mod" parent="3" attrs="" />
+         <slot id="5" role="pcomp-n" parent="4" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When did {1:stem} {0:stem} {2:term} {3:stem}?" />
+         <question focus="1" text="Who did {1:stem} {0:stem} {2:term} {4:term} {5:stem}?" />
+         <question focus="3" text="Who {0:term} {2:term} {3:stem} {4:term} {5:stem}?" />
+         <question focus="5" text="What did {0:term} do to {3:stem} {4:term} {5:stem}?" />
+      </questions> 
+   </pattern>
+   <pattern id="3">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n:person> -->
+      <slots> 
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="0" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="person" />
+      </slots>
+      <questions>
+         <question focus="1" text="Who did {1:stem} {0:stem} {2:term}?" />
+         <question focus="1" text="How is {1:stem} related to {3:stem}?" />
+         <question focus="3" text="How is {3:stem} related to {1:stem}?" />
+         <question focus="3" text="Who {0:term} {2:term} {3:stem}?" />
+      </questions> 
+   </pattern>
+   <pattern id="4">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n:location> -> <mod> -> <pcomp-n:date> -->
+      <slots> 
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="0" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="location" />
+         <slot id="4" role="mod" parent="3" attrs="" />
+         <slot id="5" role="pcomp-n" parent="4" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When did {1:stem} {0:stem} {2:term} {3:stem}?" />
+         <question focus="3" text="Who {0:term} {2:term} {3:stem} {4:term} {5:stem}?" />
+         <question focus="5" text="Who {0:term} {2:term} {3:stem} {4:term} {5:stem}?" />
+      </questions> 
+   </pattern>
+   <pattern id="5">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n> -> <mod> -> <pcomp-n:location> -->
+      <slots> 
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="0" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="" />
+         <slot id="4" role="mod" parent="3" attrs="" />
+         <slot id="5" role="pcomp-n" parent="4" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Where did {1:stem} {0:stem} {2:term} {3:stem}?" />
+         <question focus="5" text="Who {0:term} {2:term} {3:stem} {4:term} {5:stem}?" />
+      </questions> 
+   </pattern>
+   <pattern id="6">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n> -> <mod> -> <pcomp-n:date> -->
+      <slots> 
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="0" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="" />
+         <slot id="4" role="mod" parent="3" attrs="" />
+         <slot id="5" role="pcomp-n" parent="4" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When did {1:stem} {0:stem} {2:term} {3:stem}?" />
+         <question focus="5" text="Who {0:term} {2:term} {3:stem} {4:term} {5:stem}?" />
+      </questions> 
+   </pattern>
+   <pattern id="7">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="1" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Where did {1:stem} {0:stem}?" /> 
+         <question focus="3" text="Who {0:term} {2:term} {3:term}?" />
+      </questions>
+   </pattern>
+   <pattern id="8">
+   <!-- <s:person> <- <i> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="mod" parent="1" attrs="" />
+         <slot id="3" role="pcomp-n" parent="2" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When did {1:stem} {0:stem}?" />
+         <question focus="3" text="Who {0:term} {2:term} {3:stem}?" />
+      </questions>
+   </pattern>
+<!-- Intransitive verb patterns end here -->
+
+<!-- Transitive verb patterns begin here -->
+   <pattern id="9">
+   <!-- <s:person> <- <i> -> <obj:person> -> <mod> -> <pcomp-n:location> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="person" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="location" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="Who did {1:stem} {0:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="1" text="When did {1:stem} {0:stem} {2:stem} {5:term} {6:stem}?" />
+         <question focus="1" text="Where did {1:stem} {0:stem} {2:stem} {3:term} {4:stem}?" />
+         <question focus="2" text="Who {0:term} {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="4" text="What did {1:stem} do to {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="6" text="What did {1:stem} do to {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="10">
+   <!-- <s:person> <- <i> -> <obj:person> -> <mod> -> <pcomp-n:date> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="person" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="date" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Who did {1:stem} {0:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="1" text="Where did {1:stem} {0:stem} {2:stem} {5:term} {6:stem}?" />
+         <question focus="1" text="When did {1:stem} {0:stem} {2:stem} {3:term} {4:stem}?" />
+         <question focus="2" text="Who {0:term} {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="4" text="What did {1:stem} do to {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="6" text="What did {1:stem} do to {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="11">
+   <!-- <s:person> <- <i> -> <obj:person> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="person" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Who did {1:stem} {0:stem} {3:term} {4:stem}?" />
+         <question focus="1" text="Where did {1:stem} {0:stem} {2:stem}?" />
+         <question focus="2" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />
+         <question focus="4" text="What did {1:stem} do to {2:stem} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="12">
+   <!-- <s:person> <- <i> -> <obj:person> -> <mod> -> <pcomp-n: date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="person" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="Who did {1:stem} {0:stem} {3:term} {4:stem}?" />
+         <question focus="1" text="When did {1:stem} {0:stem} {2:stem}?" />
+         <question focus="2" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />
+         <question focus="4" text="What did {1:stem} do to {2:stem} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="13">
+   <!-- <s:person> <- <i> -> <obj:person> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="person" />
+      </slots>
+      <questions>
+         <question focus="2" text="Who {0:term} {2:stem}?" />
+         <question focus="1" text="What did {1:stem} do to {2:stem}?" />
+      </questions>
+   </pattern>  
+   <pattern id="14">
+   <!-- <s:person> <- <i> -> <obj> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="What did {1:stem} {0:stem} {2:stem} {3:term}?" />
+         <question focus="4" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="15">
+   <!-- <s:person> <- <i> -> <obj> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When did {1:stem} {0:stem} {2:stem}?" />
+         <question focus="4" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />
+     </questions>
+   </pattern>
+   <pattern id="16">
+   <!-- <s:person> <- <i> -> <obj> -> <mod> -> <pcomp-n:corpname> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="corpname" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="What organization did {1:stem} {0:stem} {2:stem} {3:term} {5:term} {6:stem}?" />
+         <question focus="1" text="When did {1:stem} {0:stem} {2:stem} {3:term} {4:stem}?" />
+         <question focus="4" text="Who {0:term} {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="6" text="Who {0:stem} {2:stem} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="17">
+   <!-- <s:person> <- <i> -> <obj> -> <mod> -> <pcomp-n:corpname> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="obj" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="corpname" />
+      </slots>
+      <questions>
+         <question focus="1" text="What organization did {1:stem} {0:stem} {2:stem} {3:term}?" />
+         <question focus="4" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />
+     </questions>
+   </pattern>
+<!-- Transitive verb patterns end here -->
+
+<!-- Predicate patterns start here --> 
+   <pattern id="18">
+   <!-- <s:person> <- <i> -> <pred> -> <mod> -> <pcomp-n:location> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="pred" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="location" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="Where and when {0:term} {1:stem} {2:term}?" />
+         <question focus="4" text="Who {0:term} {2:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="6" text="Who {0:term} {2:term} {3:term} {4:stem} {5:term} {6:stem}?" />            
+      </questions>
+   </pattern>
+   <pattern id="19">
+   <!-- <s:person> <- <i> -> <pred> -> <mod> -> <pcomp-n:date> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="pred" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="date" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="When and where {0:term} {1:stem} {2:term}?" />
+         <question focus="4" text="Who {0:term} {2:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="6" text="Who {0:term} {2:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="20">
+   <!-- <s:location> <- <i> -> <pred> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="location" />
+         <slot id="2" role="pred" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="How is {1:stem} related to {4:stem}?" />
+         <question focus="1" text="What {0:term} {1:stem} {2:stem} {3:term}?" />
+         <question focus="4" text="What {0:term} {2:stem} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="21">
+   <!-- <s:location> <- <i> -> <pred> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="location" />
+         <slot id="2" role="pred" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When {0:term} {1:stem} {2:term}?" />
+         <question focus="4" text="What place {0:term} {2:term} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="22">
+   <!-- <s:person> <- <i> -> <pred> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="pred" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="What place {0:term} {1:stem} {2:term} {3:term}?"/>
+         <question focus="4" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />    
+      </questions>
+   </pattern>
+   <pattern id="23">
+   <!-- <s:person> <- <i> -> <pred> -> <mod> -> <pcomp-n:person> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="pred" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="person" />
+      </slots>
+      <questions>
+         <question focus="1" text="How is {1:stem} related to {4:stem}?" /> 
+         <question focus="4" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="24">
+   <!-- <s:person> <- <i> -> <pred> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="pred" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="2" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When {0:term} {1:stem} {2:term}?" />
+         <question focus="4" text="Who {0:term} {2:stem} {3:term} {4:stem}?" />   
+     </questions>
+   </pattern>  
+<!-- Predicate patterns end here -->
+
+<!-- Passive voice patterns begin here -->
+   <pattern id="25">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n:person> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="person" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When {2:term} {1:stem} {0:term} {3:term} {4:stem}?" />
+         <question focus="4" text="Who {2:term} {0:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="6" text="Who {2:term} {0:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="26">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n:person> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="person" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Where {2:term} {1:stem} {0:term} {3:term} {4:stem}?" />
+         <question focus="4" text="Who {2:term} {0:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+         <question focus="6" text="Who {2:term} {0:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="27">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n:person> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="person" />
+      </slots>
+      <questions>
+         <question focus="1" text="By whom {2:term} {1:stem} {0:term}?" />
+         <question focus="4" text="Who {2:term} {0:term} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="28">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When {2:term} {1:stem} {0:term}?" />
+         <question focus="4" text="Who {2:term} {0:term} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="29">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Where {2:term} {1:stem} {0:term}?" />
+         <question focus="4" text="Who {2:term} {0:term} {3:term} {4:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="30">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n> -> <mod> -> <pcomp-n:date> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="date" />
+      </slots>
+      <questions>
+         <question focus="1" text="When {2:term} {1:stem} {0:term} {3:term} {4:stem}?" />
+         <question focus="6" text="Who {2:term} {0:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="31">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n> -> <mod> -> <pcomp-n:location> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="" />
+         <slot id="5" role="mod" parent="4" attrs="" />
+         <slot id="6" role="pcomp-n" parent="5" attrs="location" />
+      </slots>
+      <questions>
+         <question focus="1" text="Where {2:term} {1:stem} {0:term} {3:term} {4:stem}?" />
+         <question focus="6" text="Who {2:term} {0:term} {3:term} {4:stem} {5:term} {6:stem}?" />
+      </questions>
+   </pattern>
+   <pattern id="32">
+   <!-- <s:person> <- <i> (-> <be>) -> <mod> -> <pcomp-n> -->
+      <slots>
+         <slot id="0" role="i" parent="" attrs="" />
+         <slot id="1" role="s" parent="0" attrs="person" />
+         <slot id="2" role="be" parent="0" attrs="" />
+         <slot id="3" role="mod" parent="0" attrs="" />
+         <slot id="4" role="pcomp-n" parent="3" attrs="" />
+      </slots>
+      <questions>
+         <question focus="1" text="What {2:term} {1:stem} {0:term} {3:term}?" />  
+      </questions>
+   </pattern>
+<!-- Passive voice patterns begin here -->
+</patterns>

@@ -1,0 +1,194 @@
+academy
+administration
+affiliate
+agency
+airline
+airport
+alliance
+army
+asset
+association
+authority
+automaker
+bank
+bank holding company
+base
+board
+branch
+brewer
+brewery
+broadcaster
+broker
+brokerage
+builder
+building
+bureau
+business
+business school
+camp
+campus
+carrier
+chain
+chamber of commerce
+channel
+chapter
+charity
+church
+Citibank
+city
+class
+classroom
+clinic
+club
+coalition
+college
+commission
+committee
+community
+community college
+company
+concern
+Confederation
+conference
+conglomerate
+consortium
+consulate
+consultant
+consulting firm
+cooperative
+corporation
+council
+country
+county
+court
+department
+developer
+diocese
+distributor
+district
+division
+economy
+elementary school
+Embassy
+embassy
+enterprise
+entity
+exchange
+expert
+facility
+faction
+factory
+FDA
+federation
+firm
+foundation
+foundations
+fund
+funds
+Gallery
+giant
+government
+graduate school
+group
+headquarters
+high school
+HMO
+holding company
+hospital
+hotel
+industry
+institute
+institution
+insurer
+insurers
+investigator
+investment trust
+jail
+joint venture
+lab
+laboratory
+league
+legislature
+lender
+library
+magazine
+manufacturer
+medical school
+merchant bank
+middle school
+ministry
+movement
+museum
+NAACP
+Navy
+neighborhood
+network
+newspaper
+nursing home
+operation
+operations
+operator
+organization
+panel
+parish
+park
+partner
+partnership
+party
+Pentagon
+pharmacy
+physician
+plant
+police
+police force
+postal service
+post office
+prison
+property
+provider
+publication
+publisher
+railroad
+republic
+researcher
+restaurant
+S&amp;Ls
+savings and loan
+savings bank
+school
+school of medicine
+sector
+seminary
+shelter
+site
+society
+solidarity
+specialist
+stadium
+state
+station
+stocks
+store
+stores
+studio
+subcommittee
+subsidiary
+syndicate
+task force
+theater
+think tank
+thrift institution
+town
+trade union
+travel agency
+tribe
+Trust
+trust
+trust company
+UCLA
+underwriter
+union
+unit
+university
+utility
+venture

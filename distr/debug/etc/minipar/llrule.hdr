@@ -1,0 +1,5 @@
+llrule.lsp
+1979            ;; the size of the index file
+llrule.ind ;; the name of the index file
+(                ;; opening bracket
+)                ;; close bracket

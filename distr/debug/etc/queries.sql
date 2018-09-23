@@ -1,0 +1,11 @@
+INSERT INTO suggestions(query,type) VALUES('john kennedy','1');
+INSERT INTO suggestions(query,type) VALUES('madison','1');
+INSERT INTO suggestions(query,type) VALUES('lincoln','1');
+INSERT INTO suggestions(query,type) VALUES('adams','1');
+INSERT INTO suggestions(query,type) VALUES('jefferson','1');
+INSERT INTO suggestions(query,type) VALUES('eisenhower','1');
+INSERT INTO suggestions(query,type) VALUES('william jefferson clinton','1');
+INSERT INTO suggestions(query,type) VALUES('president george w bush','1');
+INSERT INTO suggestions(query,type) VALUES('reagan','1');
+INSERT INTO suggestions(query,type) VALUES('kennedy dallas oswald','1');
+INSERT INTO suggestions(query,type) VALUES('massachusetts','1');

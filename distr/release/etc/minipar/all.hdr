@@ -1,0 +1,5 @@
+all.dat  ;; the name of the data file
+64       ;; the quantum size of the dictionary file
+345679   ;; the number of internal buckets
+         ;; Use prime numbers, such as 1997 9973 19997 29989 59999 89989 99991
+strcasecmp ;; function used to compare keys
